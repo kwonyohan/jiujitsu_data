@@ -29,5 +29,16 @@
         },
         "icons": ["beginner", "prize", "absolute"],
         "applyUrl": "https://www.google.com"
-    }
+    },
+    {
+        "title": "김동규 대회",
+        "location": "경기",
+        "competitionDate": "2022-04-05",
+        "applyPeriod": {
+            "start": "2022-03-24",
+            "end": "2022-04-04"
+        },
+        "icons": ["beginner", "prize", "absolute"],
+        "applyUrl": "https://www.google.com"
+    },
 ]
