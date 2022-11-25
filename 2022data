@@ -1,0 +1,49 @@
+[
+    {
+        "title": "2023 주짓수 국가대표선발대회 및 청소년대표선발대회",
+        "location": "세종",
+        "competitionDate": "2022-12-17",
+        "applyPeriod": {
+            "start": "2022-11-16",
+            "end": "2022-11-25"
+        },
+        "icons": [],
+        "applyUrl": "https://jjak.or.kr/bbs/board.php?bo_table=gamenotice&wr_id=106",
+        "prizemoney": 0,
+        "applymoney": 50000,
+        "locationdetail": "세종특별자치시 조치원읍 대첩로 116, 세종시민체육관"
+    },{
+        "title": "올코리아주짓수 블루/퍼플 챔피언 결정전",
+        "location": "부천",
+        "competitionDate": "2022-12-17",
+        "applyPeriod": {
+            "start": "2022-11-07",
+            "end": "2022-11-30"
+        },
+        "icons": ["absolute"],
+        "applyUrl": "forms.gle/ABcfQpoN7r3APRkX6"
+        "prizemoney": 0,
+        "applymoney": 50000,
+        "locationdetail": "세종특별자치시 조치원읍 대첩로 116, 세종시민체육관"
+    },{
+        "title": "방일섭 대회",
+        "location": "서울",
+        "competitionDate": "2022-04-10",
+        "applyPeriod": {
+            "start": "2022-04-01",
+            "end": "2022-04-08"
+        },
+        "icons": ["beginner", "prize", "absolute"],
+        "applyUrl": "https://www.google.com"
+    },{
+        "title": "김동규 대회",
+        "location": "경기",
+        "competitionDate": "2022-04-05",
+        "applyPeriod": {
+            "start": "2022-03-24",
+            "end": "2022-04-04"
+        },
+        "icons": ["beginner", "prize", "absolute"],
+        "applyUrl": "https://www.google.com"
+    }
+]
