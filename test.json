@@ -1,0 +1,33 @@
+[
+    {
+        "title": "권요한 대회",
+        "location": "서울",
+        "competitionDate": "2022-11-24",
+        "applyPeriod": {
+            "start": "2022-11-10",
+            "end": "2022-11-23"
+        },
+        "icons": ["beginner", "prize"],
+        "applyUrl": "https://www.google.com"
+    },{
+        "title": "김경래 대회",
+        "location": "서울",
+        "competitionDate": "2022-04-05",
+        "applyPeriod": {
+            "start": "2022-03-24",
+            "end": "2022-04-04"
+        },
+        "icons": ["beginner", "prize", "absolute"],
+        "applyUrl": "https://www.google.com"
+    },{
+        "title": "방일섭 대회",
+        "location": "서울",
+        "competitionDate": "2022-04-10",
+        "applyPeriod": {
+            "start": "2022-04-01",
+            "end": "2022-04-08"
+        },
+        "icons": ["beginner", "prize", "absolute"],
+        "applyUrl": "https://www.google.com"
+    }
+]
