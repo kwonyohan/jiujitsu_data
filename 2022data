@@ -181,8 +181,8 @@
     "location": "서울",
     "competitionDate": "2021-11-14",
     "applyPeriod": {
-      "start": "2021-11-12",
-      "end": "2021-10-12"
+      "start": "2021-10-12",
+      "end": "2021-11-12"
     },
     "icons": [
       "beginner",
@@ -200,8 +200,8 @@
     "location": "서울",
     "competitionDate": "2020-11-14",
     "applyPeriod": {
-      "start": "2020-11-12",
-      "end": "2020-10-12"
+      "start": "2020-10-12",
+      "end": "2020-11-12"
     },
     "icons": [
       "beginner",
@@ -219,8 +219,8 @@
     "location": "서울",
     "competitionDate": "2023-11-14",
     "applyPeriod": {
-      "start": "2023-11-12",
-      "end": "2023-10-12"
+      "start": "2023-10-12",
+      "end": "2023-11-12"
     },
     "icons": [
       "beginner",
