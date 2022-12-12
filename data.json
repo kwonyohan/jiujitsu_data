@@ -128,7 +128,7 @@
     "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
     "prizeMoney": 1234,
     "applyMoney": 50000,
-    "locationDetail": "있을 수도 없을 수도 있는 대회입니다.",
+    "locationDetail": "test data",
     "priority": 0
   },
   {
@@ -352,7 +352,7 @@
     "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
     "prizeMoney": 1234,
     "applyMoney": 50000,
-    "locationDetail": "이미지난대회입니다.",
+    "locationDetail": "이미지난대회입니다_test data",
     "priority": 0
   },
   {
@@ -372,7 +372,7 @@
     "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
     "prizeMoney": 1234,
     "applyMoney": 50000,
-    "locationDetail": "있을 수도 없을 수도 있는 대회입니다.",
+    "locationDetail": "test data",
     "priority": 0
   },
   {
@@ -392,7 +392,7 @@
     "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
     "prizeMoney": 1234,
     "applyMoney": 50000,
-    "locationDetail": "이미지난대회입니다.",
+    "locationDetail": "이미지난대회입니다_test data",
     "priority": 0
   }
 ]
