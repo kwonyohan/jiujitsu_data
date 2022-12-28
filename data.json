@@ -1,5 +1,157 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f2c2021229017",
+    "title": "리그로얄 부산",
+    "location": "부산",
+    "competitionDate": "2023-02-11",
+    "applyPeriod": {
+      "start": "2022-12-17",
+      "end": "2023-02-06"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd9vlJw0U3jQ33nNAo8BNlb5SDsmtaKFPwq-5mVd-ZyR5Ak6Q/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "부산 강서구 대저1동, 강서체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c2021229016",
+    "title": "리얼주짓수12 전주오픈 챔피언십",
+    "location": "전주",
+    "competitionDate": "2023-02-25",
+    "applyPeriod": {
+      "start": "2023-01-16",
+      "end": "2023-02-17"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://www.realbjj.co.kr/detail.php?contest_no=24",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "전북 전주시 완산구 백제대로 310, 화산체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c2021229015",
+    "title": "예거스컵 포항",
+    "location": "경북",
+    "competitionDate": "2023-03-11",
+    "applyPeriod": {
+      "start": "2022-12-27",
+      "end": "2023-03-03"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1MFGNJrpKe57hgamBp2OgpSUHBmoWh2_-fpNKvNkwz6U/viewform?edit_requested=true",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c2021229014",
+    "title": "예거스컵 송도",
+    "location": "인천",
+    "competitionDate": "2023-02-25",
+    "applyPeriod": {
+      "start": "2022-12-27",
+      "end": "2023-02-17"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1rDsNWNICmmg04CbobGo-sHs108OsFxxBSCfgXKUuLYI/viewform?edit_requested=true",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "인천광역시 연수구 송도문화로 119, 송도 글로벌캠퍼스 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c2021229013",
+    "title": "예거스컵 광주",
+    "location": "광주",
+    "competitionDate": "2023-02-18",
+    "applyPeriod": {
+      "start": "2022-12-27",
+      "end": "2023-02-10"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1UP2NXn5HcNrvIXNFPt6tt6GUM3MpZ7M-shJZPK06QcU/viewform?edit_requested=true#responses",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "광주 서구 금화로 278, 광주 빛고을 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c2021229012",
+    "title": "예거스컵 서울",
+    "location": "서울",
+    "competitionDate": "2023-02-12",
+    "applyPeriod": {
+      "start": "2022-12-27",
+      "end": "2023-02-12"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1joNJudw8XJY_0Mf6r-PGxXZsxysj_cn2l93XECEKkAk/viewform?edit_requested=true#responses",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "서울 마포구 대흥로20길 28, 마포아트센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c2021229011",
+    "title": "예거스컵 천안",
+    "location": "충남",
+    "competitionDate": "2023-02-11",
+    "applyPeriod": {
+      "start": "2022-12-27",
+      "end": "2023-02-03"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/18kyO6dvSwvMOCnJi9cOwz4G7N-aK3l4w4qQ8WUm1ZW0/viewform?edit_requested=true#responses",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "충청남도 천안시 동남구 상명대길 31, 천안상명대학교",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c2021229010",
+    "title": "예거스컵 마산",
+    "location": "경남",
+    "competitionDate": "2023-02-04",
+    "applyPeriod": {
+      "start": "2022-12-27",
+      "end": "2023-01-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1H_HCYNxi_Scxt3vg6-uvWv0kIjQ8vALS7EUPD74j6-4/viewform?edit_requested=true#responses",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "경남 창원시 마산회원구 삼호로 63, 마산종합운동장",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f2c221211065",
     "title": "스트릿주짓수 22 창원 오픈",
     "location": "경기",
@@ -14,7 +166,7 @@
     ],
     "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF21-%EC%B0%BD%EC%9B%90-%EC%98%A4%ED%94%88",
     "prizeMoney": 0,
-    "applyMoney": 55000,
+    "applyMoney": 50000,
     "locationDetail": "경기 수원시 영통구 광교중앙로 140, 수원컨벤션센터",
     "priority": 0
   },{
