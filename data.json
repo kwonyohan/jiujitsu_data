@@ -264,26 +264,6 @@
     "locationDetail": "대전 서구 배재로197번길 41, 도솔다목적체육관",
     "priority": 0
   },{
-    "id": "0ac8c682-5c80-44df-94a9-2be7abc771cf",
-    "title": "test2023",
-    "location": "서울",
-    "competitionDate": "2023-11-14",
-    "applyPeriod": {
-      "start": "2023-10-12",
-      "end": "2023-11-12"
-    },
-    "icons": [
-      "beginner",
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
-    "prizeMoney": 1234,
-    "applyMoney": 50000,
-    "locationDetail": "test data",
-    "priority": 0
-  },
-  {
     "id": "73eb87d4-fb6d-4de9-a80a-1e61c953c259",
     "title": "2023 주짓수 국가대표선발대회 및 청소년대표선발대회",
     "location": "세종",
@@ -511,7 +491,7 @@
     "id": "dba7ecef-5404-4e04-a63d-5443dcf5dabf",
     "title": "testalarm",
     "location": "서울",
-    "competitionDate": "2022-11-27",
+    "competitionDate": "2022-12-30",
     "applyPeriod": {
       "start": "2022-10-12",
       "end": "2022-11-12"
@@ -525,26 +505,6 @@
     "prizeMoney": 1234,
     "applyMoney": 50000,
     "locationDetail": "test data",
-    "priority": 0
-  },
-  {
-    "id": "db018738-c315-4a9a-b063-22cdb75e6ed0",
-    "title": "test",
-    "location": "서울",
-    "competitionDate": "2020-11-14",
-    "applyPeriod": {
-      "start": "2020-10-12",
-      "end": "2020-11-12"
-    },
-    "icons": [
-      "beginner",
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
-    "prizeMoney": 1234,
-    "applyMoney": 50000,
-    "locationDetail": "이미지난대회입니다_test data",
     "priority": 0
   }
 ]
