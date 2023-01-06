@@ -1,6 +1,116 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f2c2021229017",
+    "id": "4b738ef0-b542-4412-a668-f20230106155",
+    "title": "제7회 플레이 주짓수컵",
+    "location": "경기",
+    "competitionDate": "2023-01-28",
+    "applyPeriod": {
+      "start": "2022-12-19",
+      "end": "2023-01-15"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://form.office.naver.com/form/responseView.cmd?formkey=YTIwZTVmNjAtYjU3Yi00ZDQ3LTgwMjctZmMzMzAyZDFhNTA5&sourceId=urlshare",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경기 김포시 사우중로 26, 김포시민회관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230106154",
+    "title": "아이리스 챔피언쉽 화성",
+    "location": "경기",
+    "competitionDate": "2023-02-25",
+    "applyPeriod": {
+      "start": "2023-01-06",
+      "end": "2023-02-18"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://ksunboxer.wixsite.com/irls-championship/post/%EA%B0%84%ED%8E%B8%ED%95%98%EA%B2%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0",
+    "prizeMoney": 1,
+    "applyMoney": 50000,
+    "locationDetail": "경기 화성시 봉담읍 동화길 18, 화성국민체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230106153",
+    "title": "스트릿주짓수 26 원주 오픈",
+    "location": "원주",
+    "competitionDate": "2023-05-06",
+    "applyPeriod": {
+      "start": "2023-01-06",
+      "end": "2023-04-28"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF23-%EA%B4%91%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "강원도 원주시 서원대로 279, 원주치악체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230106152",
+    "title": "스트릿주짓수 24 광주 오픈",
+    "location": "광주",
+    "competitionDate": "2023-03-18",
+    "applyPeriod": {
+      "start": "2023-01-06",
+      "end": "2023-03-10"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF22-%EC%88%98%EC%9B%90-%EC%98%A4%ED%94%88",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "광주 서구 금화로 278, 광주빛고을체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230106151",
+    "title": "스트릿주짓수 23 대전 오픈",
+    "location": "대전",
+    "competitionDate": "2023-02-18",
+    "applyPeriod": {
+      "start": "2023-01-06",
+      "end": "2023-02-10"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF22-%EC%88%98%EC%9B%90-%EC%98%A4%ED%94%88-1",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "대전 중구 대종로 373, 대전한밭체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230106150",
+    "title": "예거스컵 광주",
+    "location": "광주",
+    "competitionDate": "2023-03-04",
+    "applyPeriod": {
+      "start": "2023-01-06",
+      "end": "2023-02-24"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1UP2NXn5HcNrvIXNFPt6tt6GUM3MpZ7M-shJZPK06QcU/viewform?edit_requested=true#responses",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "광주 서구 금화로 278, 광주 빛고을 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f2c021229017",
     "title": "리그로얄 부산",
     "location": "부산",
     "competitionDate": "2023-02-11",
@@ -19,7 +129,7 @@
     "locationDetail": "부산 강서구 대저1동, 강서체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f2c2021229016",
+    "id": "4b738ef0-b542-4412-a668-f2c021229016",
     "title": "리얼주짓수12 전주오픈 챔피언십",
     "location": "전주",
     "competitionDate": "2023-02-25",
@@ -38,13 +148,13 @@
     "locationDetail": "전북 전주시 완산구 백제대로 310, 화산체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f2c2021229015",
+    "id": "4b738ef0-b542-4412-a668-f2c021229015",
     "title": "예거스컵 포항",
     "location": "경북",
-    "competitionDate": "2023-03-11",
+    "competitionDate": "2023-03-18",
     "applyPeriod": {
       "start": "2022-12-27",
-      "end": "2023-03-03"
+      "end": "2023-03-10"
     },
     "icons": [
       "beginner",
@@ -57,7 +167,7 @@
     "locationDetail": "경북 포항시 남구 희망대로 810, 포항실내체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f2c2021229014",
+    "id": "4b738ef0-b542-4412-a668-f22021229014",
     "title": "예거스컵 송도",
     "location": "인천",
     "competitionDate": "2023-02-25",
@@ -76,26 +186,7 @@
     "locationDetail": "인천광역시 연수구 송도문화로 119, 송도 글로벌캠퍼스 체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f2c2021229013",
-    "title": "예거스컵 광주",
-    "location": "광주",
-    "competitionDate": "2023-02-18",
-    "applyPeriod": {
-      "start": "2022-12-27",
-      "end": "2023-02-10"
-    },
-    "icons": [
-      "beginner",
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "https://docs.google.com/forms/d/1UP2NXn5HcNrvIXNFPt6tt6GUM3MpZ7M-shJZPK06QcU/viewform?edit_requested=true#responses",
-    "prizeMoney": 1200000,
-    "applyMoney": 50000,
-    "locationDetail": "광주 서구 금화로 278, 광주 빛고을 체육관",
-    "priority": 0
-  },{
-    "id": "4b738ef0-b542-4412-a668-f2c2021229012",
+    "id": "4b738ef0-b542-4412-a668-f2c021229012",
     "title": "예거스컵 서울",
     "location": "서울",
     "competitionDate": "2023-02-12",
@@ -114,7 +205,7 @@
     "locationDetail": "서울 마포구 대흥로20길 28, 마포아트센터",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f2c2021229011",
+    "id": "4b738ef0-b542-4412-a668-f2c021229011",
     "title": "예거스컵 천안",
     "location": "충남",
     "competitionDate": "2023-02-11",
@@ -133,7 +224,7 @@
     "locationDetail": "충청남도 천안시 동남구 상명대길 31, 천안상명대학교",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f2c2021229010",
+    "id": "4b738ef0-b542-4412-a668-f2c021229010",
     "title": "예거스컵 마산",
     "location": "경남",
     "competitionDate": "2023-02-04",
