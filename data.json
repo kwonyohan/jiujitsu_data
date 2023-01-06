@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230106156",
+    "title": "코리아주짓수 챔피언쉽 12 아산",
+    "location": "충남",
+    "competitionDate": "2023-03-11",
+    "applyPeriod": {
+      "start": "2023-01-06",
+      "end": "2023-03-04"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe3XBLGUQ_u-GuHTqtN_maf6_h9VGco2XGH45uXEIm8UzfVDA/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "충남 아산시 탕정면 선문로221번길 70, 선문대학교 아산캡퍼스 실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230106155",
     "title": "제7회 플레이 주짓수컵",
     "location": "경기",
