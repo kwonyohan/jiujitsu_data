@@ -558,44 +558,24 @@
     "applyMoney": 50000,
     "locationDetail": "경기 안산시 단원구 적금로 202, 안산올림픽 기념관 체육관",
     "priority": 0
-  },{
-    "id": "a109aa7f-4952-4ff2-a8b5-cfd827e2b7a1",
-    "title": "몬스터짐 주짓수 챔피언쉽4",
-    "location": "서울",
-    "competitionDate": "2021-11-14",
-    "applyPeriod": {
-      "start": "2021-10-12",
-      "end": "2021-11-12"
-    },
-    "icons": [
-      "beginner",
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
-    "prizeMoney": 1234,
-    "applyMoney": 50000,
-    "locationDetail": "이미지난대회입니다_test data",
-    "priority": 0
-  },
-  {
+  },  {
     "id": "dba7ecef-5404-4e04-a63d-5443dcf5dabf",
-    "title": "testalarm",
+    "title": "app tester",
     "location": "서울",
-    "competitionDate": "2022-12-30",
+    "competitionDate": "2022-09-30",
     "applyPeriod": {
-      "start": "2022-12-28",
-      "end": "2022-12-29"
+      "start": "2022-09-28",
+      "end": "2022-09-29"
     },
     "icons": [
       "beginner",
       "prize",
       "absolute"
     ],
-    "applyUrl": "https://www.monsterzym.com/index.php?dispatch=board.notice_view&board_data_idx=253390&page=1&sl=ko",
-    "prizeMoney": 1234,
+    "applyUrl": "https://www.naver.com/",
+    "prizeMoney": 99999,
     "applyMoney": 50000,
-    "locationDetail": "test data",
+    "locationDetail": "대회상세주소",
     "priority": 0
   }
 ]
