@@ -1,5 +1,56 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230110182",
+    "title": "2023년 경기도 주짓수회장배 오픈 챔피언쉽",
+    "location": "경기",
+    "competitionDate": "2023-03-25",
+    "applyPeriod": {
+      "start": "2023-02-20",
+      "end": "2023-03-10"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/CmvcOtPJ_zi/?igshid=YmMyMTA2M2Y=",
+    "prizeMoney": 0,
+    "applyMoney": 30000,
+    "locationDetail": "경기 남양주시 다산지금로 91, 남양주체육문화센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230110181",
+    "title": "2023년 경기도 주짓수회장배 오픈 챔피언쉽",
+    "location": "경기",
+    "competitionDate": "2023-03-25",
+    "applyPeriod": {
+      "start": "2023-02-20",
+      "end": "2023-03-10"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/CmvcOtPJ_zi/?igshid=YmMyMTA2M2Y=",
+    "prizeMoney": 0,
+    "applyMoney": 30000,
+    "locationDetail": "경기 남양주시 다산지금로 91, 남양주체육문화센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230110180",
+    "title": "SGAA 노기 Point Time 1 (초급/중급/프로)",
+    "location": "서울",
+    "competitionDate": "2023-01-28",
+    "applyPeriod": {
+      "start": "2023-01-09",
+      "end": "2023-01-25"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdFZuIfb4kkVGj33zjwVrIeAb1xNvF3SiOhPWpbRbCg8t9m0w/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 10000,
+    "locationDetail": "서울 마포구 서강로9길 49, 서울 홍대 SGAA 스튜디오",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230106156",
     "title": "코리아주짓수 챔피언쉽 12 아산",
     "location": "충남",
@@ -332,7 +383,7 @@
     "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfSd-tnA5XWETguPe7cpsBvmujh6tFwTBlkoBqpUZk-5iLWUA/viewform",
     "prizeMoney": 1200000,
     "applyMoney": 50000,
-    "locationDetail": "서울 강서구 공항대로 376, 마포아트센터",
+    "locationDetail": "서울 마포구 대흥로20길 28, 마포아트센터",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f2c221211061",
