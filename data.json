@@ -1,5 +1,61 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230117172",
+    "title": "제2회 파이트투어 광주오픈 챔피언쉽",
+    "location": "광주",
+    "competitionDate": "2023-02-18",
+    "applyPeriod": {
+      "start": "2023-01-09",
+      "end": "2023-02-03"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdCMfOozuQcOizy33KYHn0BpWbeIZsIS2x4fmlEjYwR6KGvJQ/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "광주 북구 첨단연신로 29번길 15, 광주 북구 종합 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230117171",
+    "title": "예거스컵 대전",
+    "location": "대전",
+    "competitionDate": "2023-03-11",
+    "applyPeriod": {
+      "start": "2023-01-16",
+      "end": "2023-03-03"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1zCKX6Kors95RJCnVpSrjvKQdje0R4FD6zBpZ2ObKICA/viewform?edit_requested=true#responses",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "대전 서구 배재로197번길 41 도솔다목적체육관, 청소년문화의집",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230117170",
+    "title": "예거스컵 대구",
+    "location": "대구",
+    "competitionDate": "2023-02-25",
+    "applyPeriod": {
+      "start": "2023-01-16",
+      "end": "2023-02-17"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScd_L4hsegSDWY-Jl4yLeAVdcws04UqzUFePoCgjylG9S4fXA/viewform",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "대구 동구 팔공로 227, 대구텍스타일콤플랙스",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230110183",
     "title": "전국주짓수챔피언쉽 안산시협회장배",
     "location": "경기",
@@ -258,17 +314,17 @@
     "id": "4b738ef0-b542-4412-a668-f22021229014",
     "title": "예거스컵 송도",
     "location": "인천",
-    "competitionDate": "2023-02-25",
+    "competitionDate": "2023-02-04",
     "applyPeriod": {
       "start": "2022-12-27",
-      "end": "2023-02-17"
+      "end": "2023-01-27"
     },
     "icons": [
       "beginner",
       "prize",
       "absolute"
     ],
-    "applyUrl": "https://docs.google.com/forms/d/1rDsNWNICmmg04CbobGo-sHs108OsFxxBSCfgXKUuLYI/viewform?edit_requested=true",
+    "applyUrl": "https://docs.google.com/forms/d/1rDsNWNICmmg04CbobGo-sHs108OsFxxBSCfgXKUuLYI/viewform?edit_requested=true#responses",
     "prizeMoney": 1200000,
     "applyMoney": 50000,
     "locationDetail": "인천광역시 연수구 송도문화로 119, 송도 글로벌캠퍼스 체육관",
