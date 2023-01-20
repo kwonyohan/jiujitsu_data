@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230121022",
+    "title": "킹오브주짓수 블루벨트 최강자전",
+    "location": "대구",
+    "competitionDate": "2023-01-28",
+    "applyPeriod": {
+      "start": "2023-01-11",
+      "end": "2023-01-25"
+    },
+    "icons": [
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1sy2oCQKZxpLC15F2pHMiwOp5JLwGxMzi4Mze8_qa8kQ/viewform?edit_requested=true",
+    "prizeMoney": 1000000,
+    "applyMoney": 0,
+    "locationDetail": "대구 수성구 수성로 214, 4층 식스블래이드 수성",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230121021",
     "title": "스트릿주짓수 25 대구 오픈",
     "location": "대구",
