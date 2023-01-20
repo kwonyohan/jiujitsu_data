@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230121021",
+    "title": "스트릿주짓수 25 대구 오픈",
+    "location": "대구",
+    "competitionDate": "2023-04-15",
+    "applyPeriod": {
+      "start": "2023-01-20",
+      "end": "2023-04-07"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF23-%EA%B4%91%EC%A3%BC-%EC%98%A4%ED%94%88-1",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "대구 수성구 미술관로 88, 대구육상진흥센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230121020",
     "title": "SST 주짓수 챔피언쉽",
     "location": "서울",
