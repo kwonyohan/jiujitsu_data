@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230121020",
+    "title": "SST 주짓수 챔피언쉽",
+    "location": "서울",
+    "competitionDate": "2023-04-08",
+    "applyPeriod": {
+      "start": "2023-03-02",
+      "end": "2023-04-02"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/Cnl0m58p6B3/?igshid=YmMyMTA2M2Y%3D",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 서초구 양재대로12길 73-48, 서초종합체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230117172",
     "title": "제2회 파이트투어 광주오픈 챔피언쉽",
     "location": "광주",
@@ -77,7 +95,7 @@
     "id": "4b738ef0-b542-4412-a668-f20230110182",
     "title": "알렉산더 파이바 인터내셔널 주짓수 챔피언쉽",
     "location": "부산",
-    "competitionDate": "2023-03-04",
+    "competitionDate": "2023-03-25",
     "applyPeriod": {
       "start": "2023-01-03",
       "end": "2023-03-11"
