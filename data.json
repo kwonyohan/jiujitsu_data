@@ -713,7 +713,10 @@
       "start": "2022-10-01",
       "end": "2022-10-31"
     },
-    "icons": [],
+    "icons": [
+      "beginner",
+      "prize"
+    ],
     "applyUrl": "https://form.office.naver.com/form/responseView.cmd?formkey=YTIwZTVmNjAtYjU3Yi00ZDQ3LTgwMjctZmMzMzAyZDFhNTA5&sourceId=urlshare",
     "prizeMoney": 0,
     "applyMoney": 50000,
