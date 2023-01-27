@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230127180",
+    "title": "제4회 아디다스컵 주짓수컵 제주",
+    "location": "제주",
+    "competitionDate": "2023-02-25",
+    "applyPeriod": {
+      "start": "2023-01-16",
+      "end": "2023-02-17"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdakp6AiTfUJi5nFCjUlbcQ42TEYWO8B2RjUWjdg9Xs-p3PiQ/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 70000,
+    "locationDetail": "제주 제주시 동문로 169, 사라봉다목적체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230126181",
     "title": "OPMT 퍼플킹",
     "location": "세종",
