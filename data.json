@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230129200",
+    "title": "알렉산더 파이바 인터내셔널 주짓수 챔피언쉽 포항",
+    "location": "경북",
+    "competitionDate": "2023-05-13",
+    "applyPeriod": {
+      "start": "2023-03-01",
+      "end": "2023-05-05"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/CnD4txwJlLx/?utm_source=ig_web_copy_link",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항 종합운동장 실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230127180",
     "title": "제4회 아디다스컵 주짓수컵 제주",
     "location": "제주",
