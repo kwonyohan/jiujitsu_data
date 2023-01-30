@@ -1,5 +1,40 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230130141",
+    "title": "SGAA 기&노기 챔피언쉽 서울",
+    "location": "서울",
+    "competitionDate": "2023-03-12",
+    "applyPeriod": {
+      "start": "2023-01-30",
+      "end": "2023-03-01"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://linktr.ee/sgaaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 마포구 대흥로20길 28, 마포아트센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230130140",
+    "title": "SGAA 노기 Point Time 2 (초급/중급/프로)",
+    "location": "서울",
+    "competitionDate": "2023-02-25",
+    "applyPeriod": {
+      "start": "2023-01-30",
+      "end": "2023-02-22"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfoPTmbMFglZC1gRTQni6Br-Mug3IjalG872I2HAdQdiRhSMA/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 10000,
+    "locationDetail": "서울 마포구 서강로9길 49, 서울 홍대 SGAA 스튜디오",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230129200",
     "title": "알렉산더 파이바 인터내셔널 주짓수 챔피언쉽 포항",
     "location": "경북",
@@ -219,7 +254,7 @@
     "id": "4b738ef0-b542-4412-a668-f20230110181",
     "title": "2023년 경기도 주짓수회장배 오픈 챔피언쉽",
     "location": "경기",
-    "competitionDate": "2023-03-25",
+    "competitionDate": "2023-03-26",
     "applyPeriod": {
       "start": "2023-02-20",
       "end": "2023-03-10"
@@ -228,7 +263,7 @@
       "beginner",
       "absolute"
     ],
-    "applyUrl": "https://www.instagram.com/p/CmvcOtPJ_zi/?igshid=YmMyMTA2M2Y=",
+    "applyUrl": "https://www.instagram.com/p/CoBW_f9P8b8/?igshid=YmMyMTA2M2Y=",
     "prizeMoney": 0,
     "applyMoney": 30000,
     "locationDetail": "경기 남양주시 다산지금로 91, 남양주체육문화센터",
