@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230206190",
+    "title": "리그오브레거시 003 대구",
+    "location": "대구",
+    "competitionDate": "2023-02-26",
+    "applyPeriod": {
+      "start": "2023-01-25",
+      "end": "2023-02-15"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfhtdnUdyrHEtqcv_uE5ChTRktr813UhaYxfQlzw8q3U3FtaQ/viewform",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "대구 달성군 현풍읍 현풍중앙로 130, 달성군민체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230201162",
     "title": "리얼주짓수15 부산오픈 챔피언십",
     "location": "부산",
