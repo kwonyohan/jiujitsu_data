@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230214020",
+    "title": "제 3회 OPMT 주짓수 토너먼트",
+    "location": "경북",
+    "competitionDate": "2023-04-01",
+    "applyPeriod": {
+      "start": "2023-02-13",
+      "end": "2023-03-22"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://chamgaduruwa.com/",
+    "prizeMoney": 1000000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 수원시 영통구 월드컵로 206, 아주대학교체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230213180",
     "title": "제3회 대한주짓수회 회장기선수권대회(전문선수)",
     "location": "경북",
