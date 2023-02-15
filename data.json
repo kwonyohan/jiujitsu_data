@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230214182",
+    "title": "예거스컵 천안",
+    "location": "충남",
+    "competitionDate": "2023-03-25",
+    "applyPeriod": {
+      "start": "2023-02-14",
+      "end": "2023-03-17"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1lImtdfpDcviM5c92jOAo6uizL-MbM9Po9M6Pk0s_5iM/viewform?edit_requested=true",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "충남 천안시 동남구 상명대길 31 상명대학교천안캠퍼스, 상명대학교",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230214181",
     "title": "예거스컵 인천",
     "location": "인천",
