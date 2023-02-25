@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230225232",
+    "title": "유니온FG 주짓수리그 창원오픈",
+    "location": "경남",
+    "competitionDate": "2023-03-25",
+    "applyPeriod": {
+      "start": "2023-02-12",
+      "end": "2023-03-18"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdtXwZbw8lYaSZOKGIrsS1ZyA_SI-O2PSIR_QbJkcwJ-awSiQ/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경남 창원시 마산회원구 삼호로 63 마산종합운동장, 마산실내체육관,
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230225231",
     "title": "스트릿주짓수 26 대구 오픈",
     "location": "대구",
