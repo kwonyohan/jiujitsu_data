@@ -1,5 +1,42 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230225231",
+    "title": "스트릿주짓수 26 대구 오픈",
+    "location": "대구",
+    "competitionDate": "2023-04-29",
+    "applyPeriod": {
+      "start": "2023-01-06",
+      "end": "2023-04-21"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF25-%EC%84%B1%EB%82%A8-%EC%98%A4%ED%94%88",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "대구 수성구 미술관로 100, 시민생활스포츠센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230225230",
+    "title": "예거스컵 서울",
+    "location": "서울",
+    "competitionDate": "2023-03-19",
+    "applyPeriod": {
+      "start": "2023-02-14",
+      "end": "2023-03-10"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdtFU3YnVMVF1VuGuxFwbEXNJagL1dTL6MSYzMwIoBx5VrfpA/viewform",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "서울 마포구 대흥로20길 28, 마포아트센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230214182",
     "title": "예거스컵 천안",
     "location": "충남",
@@ -493,7 +530,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230106153",
-    "title": "스트릿주짓수 26 원주 오픈",
+    "title": "스트릿주짓수 27 원주 오픈",
     "location": "강원",
     "competitionDate": "2023-05-06",
     "applyPeriod": {
