@@ -1,5 +1,40 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230302171",
+    "title": "인천시주짓수대표선발전 및 인천시주짓수회장배(대주회)",
+    "location": "인천",
+    "competitionDate": "2023-06-03",
+    "applyPeriod": {
+      "start": "2023-05-01",
+      "end": "2023-05-20"
+    },
+    "icons": [
+      "beginner",
+    ],
+    "applyUrl": "https://jjak.or.kr/bbs/board.php?bo_table=gamenotice&wr_id=122",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "인천 연수구 경원대로 526, 인천선학체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230302170",
+    "title": "스트릿주짓수 28 청주 오픈",
+    "location": "충북",
+    "competitionDate": "2023-05-13",
+    "applyPeriod": {
+      "start": "2023-03-02",
+      "end": "2023-05-05"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF26-%EB%8C%80%EA%B5%AC-%EC%98%A4%ED%94%88",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "충북 청주시 청원구 밀레니엄1로 33, 청주장애인스포츠센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230302051",
     "title": "AJP tour 서울",
     "location": "서울",
@@ -447,7 +482,6 @@
     },
     "icons": [
       "beginner",
-      "prize"
     ],
     "applyUrl": "https://bjjakorea.com/match/register?game_id=56",
     "prizeMoney": 0,
