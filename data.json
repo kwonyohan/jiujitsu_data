@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230303170",
+    "title": "리그로얄 서울",
+    "location": "서울",
+    "competitionDate": "2023-05-07",
+    "applyPeriod": {
+      "start": "2023-03-03",
+      "end": "2023-04-05"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdxyePg7QgL3omaLyUziwLYK0nGdaGCtcL6AcQNUruKtfUjZA/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 김포시 김포한강8로 198-3, 김포생활체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230302171",
     "title": "인천시주짓수대표선발전 및 인천시주짓수회장배(대주회)",
     "location": "인천",
