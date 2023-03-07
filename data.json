@@ -1,5 +1,80 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230307193",
+    "title": "예거스컵 대구",
+    "location": "대구",
+    "competitionDate": "2023-04-23",
+    "applyPeriod": {
+      "start": "2023-03-06",
+      "end": "2023-04-14"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf8WHGy-jz15GXs6_vTgD81h7s0_yvpt2CSJ6AeGttd1e-aYw/viewform",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "대구 동구 팔공로 227, 대구텍스타일콤플랙스",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230307192",
+    "title": "예거스컵 수원",
+    "location": "경기",
+    "competitionDate": "2023-04-15",
+    "applyPeriod": {
+      "start": "2023-03-06",
+      "end": "2023-04-07"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeffUI9rgNWQtRIFvzmYF0kCXg7GnyzYYZZpLC4z_o3pbH3UQ/viewform",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 수원시 영통구 월드컵로 206, 아주대학교체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230307191",
+    "title": "예거스컵 서울",
+    "location": "서울",
+    "competitionDate": "2023-04-02",
+    "applyPeriod": {
+      "start": "2023-03-06",
+      "end": "2023-03-24"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf9UDpLMm8RyGBQjCssgkhA7rQ7R7G5cjtGuOtVkh513qUQyA/viewform",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "서울 마포구 대흥로20길 28, 마포아트센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230307190",
+    "title": "PROVA 12 부평",
+    "location": "인천",
+    "competitionDate": "2023-04-29",
+    "applyPeriod": {
+      "start": "2023-03-07",
+      "end": "2023-04-22"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1-KrJrfbMgc-8k_j-X2ukBceSe32Xls46BQ9kzW5T2jQ/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "인천광역시 부평구 체육관로 60, 삼산월드체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230303170",
     "title": "리그로얄 서울(경기)",
     "location": "경기",
