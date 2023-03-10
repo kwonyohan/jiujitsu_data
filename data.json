@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230311010",
+    "title": "샤카 주짓수 챔피언십 진해",
+    "location": "경남",
+    "competitionDate": "2023-04-22",
+    "applyPeriod": {
+      "start": "2023-03-10",
+      "end": "2023-04-17"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdcWA1R6_yKJvel1KvvVkjsgXBCI3cOLb1KBShg2HEppV4YgA/viewform?vc=0&c=0&w=1&flr=0",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경남 창원시 진해구 진해대로325, 진해실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230307193",
     "title": "예거스컵 대구",
     "location": "대구",
