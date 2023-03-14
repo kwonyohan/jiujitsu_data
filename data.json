@@ -1,5 +1,39 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230315011",
+    "title": "SGAA 노기 Point Time 3 (초급/중급/프로)",
+    "location": "서울",
+    "competitionDate": "2023-04-01",
+    "applyPeriod": {
+      "start": "2023-03-13",
+      "end": "2023-03-29"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc7XCVTsbGk5ZihzNawCP1Lu7IKa0vNF9YyF4Bd16XyGAGOXw/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 10000,
+    "locationDetail": "서울 마포구 서강로9길 49, 서울 홍대 SGAA 스튜디오",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230315010",
+    "title": "제 3회 충북주짓수회회장기 &생활체육 주짓수대회",
+    "location": "충북",
+    "competitionDate": "2023-04-15",
+    "applyPeriod": {
+      "start": "2023-03-13",
+      "end": "2023-03-31"
+    },
+    "icons": [
+      "beginner"
+    ],
+    "applyUrl": "https://cafe.naver.com/cbbjjaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "충북 청주시 서원구 흥덕로 55, 남궁유도회관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230311010",
     "title": "샤카 주짓수 챔피언십 진해",
     "location": "경남",
