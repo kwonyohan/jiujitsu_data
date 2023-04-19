@@ -1,6 +1,24 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f20230106157",
+    "id": "4b738ef0-b542-4412-a668-f20230419160",
+    "title": "제8회 플레이 주짓수컵",
+    "location": "경기",
+    "competitionDate": "2023-05-20",
+    "applyPeriod": {
+      "start": "2023-04-17",
+      "end": "2023-05-07"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://form.office.naver.com/form/responseView.cmd?formkey=OGJmZGRkOTQtNWQwMS00Mzc2LWIwY2MtNmNhYTllYzdhZjMx&sourceId=urlshare",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 김포시 김포한강8로 198-3, 김포생활체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230416168",
     "title": "OPMT Purple Queen(여성퍼플)",
     "location": "세종",
     "competitionDate": "2023-05-20",
@@ -17,7 +35,7 @@
     "locationDetail": "세종 보듬3로 100 1동 408, 409호",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20230106157",
+    "id": "4b738ef0-b542-4412-a668-f20230416167",
     "title": "아이리스 챔피언쉽 양주",
     "location": "경기",
     "competitionDate": "2023-05-28",
@@ -36,7 +54,7 @@
     "locationDetail": "경기 양주시 광적면 부흥로618번길 303, 양주문화예술회관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20230106156",
+    "id": "4b738ef0-b542-4412-a668-f20230416166",
     "title": "아이리스 챔피언쉽 광주",
     "location": "광주",
     "competitionDate": "2023-05-06",
