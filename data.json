@@ -1,5 +1,186 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230529118",
+    "title": "제2회 부산광역시주짓수회 회장기 동호인대회",
+    "location": "부산",
+    "competitionDate": "2023-06-03",
+    "applyPeriod": {
+      "start": "2023-05-02",
+      "end": "2023-05-16"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://www.facebook.com/busanbjj/photos/pcb.708193444649437/708193397982775/",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "부산광역시 강서구 대저1동 2158, 강서실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529117",
+    "title": "SGAA 노기 Point Time 5 (초급/중급/프로)",
+    "location": "서울",
+    "competitionDate": "2023-06-10",
+    "applyPeriod": {
+      "start": "2023-05-25",
+      "end": "2023-06-07"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/60",
+    "prizeMoney": 0,
+    "applyMoney": 33000,
+    "locationDetail": "서울시 마포구 서강로9길 49 B02호, SGAA 홍대 스튜디오",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529116",
+    "title": "리얼주짓수16 광주오픈 챔피언십",
+    "location": "광주",
+    "competitionDate": "2023-07-22",
+    "applyPeriod": {
+      "start": "2023-05-22",
+      "end": "2023-07-14"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://www.realbjj.co.kr/detail.php?contest_no=28",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "광주 남구 화산로 110, 광주남구다목적체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529116",
+    "title": "PROVA 14 수원",
+    "location": "경기",
+    "competitionDate": "2023-06-17",
+    "applyPeriod": {
+      "start": "2023-05-22",
+      "end": "2023-06-11"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1vxDUxP-ttavLhkkVRWwwjiqL9-op1t8mD0NVPhWIzSE/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기도 수원시 권선구 서수원로577번길 171, 서수원칠보체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529115",
+    "title": "스트릿주짓수 34 서울 오픈",
+    "location": "서울",
+    "competitionDate": "2023-07-30",
+    "applyPeriod": {
+      "start": "2023-05-01",
+      "end": "2023-07-21"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF33-%EC%9D%B8%EC%B2%9C-%EC%98%A4%ED%94%88",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "서울특별시 강남구 남부순환로 3104, SETEC2전시장",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529114",
+    "title": "스트릿주짓수 31 대전 오픈",
+    "location": "대전",
+    "competitionDate": "2023-07-01",
+    "applyPeriod": {
+      "start": "2023-05-01",
+      "end": "2023-06-23"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF34-%EC%84%9C%EC%9A%B8-%EC%98%A4%ED%94%88",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "대전광역시 중구 대종로 373, 대전충무체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529113",
+    "title": "스트릿주짓수 30 양산 오픈",
+    "location": "경남",
+    "competitionDate": "2023-06-11",
+    "applyPeriod": {
+      "start": "2023-05-01",
+      "end": "2023-06-02"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF29-%EC%88%9C%EC%B2%9C-%EC%98%A4%ED%94%88-1",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "경상남도 양산시 양산대로 849, 양산종합운동장 실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529112",
+    "title": "리그로얄 부산",
+    "location": "부산",
+    "competitionDate": "2023-07-02",
+    "applyPeriod": {
+      "start": "2023-05-15",
+      "end": "2023-06-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe3BK5hH7p2p62mUtV0EQxAnbdVO_3Fd0qDgbSB9waN9d0fDg/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "부산 강서구 대저1동, 강서체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529111",
+    "title": "예거스컵 서울",
+    "location": "서울",
+    "competitionDate": "2023-08-05",
+    "applyPeriod": {
+      "start": "2023-05-01",
+      "end": "2023-07-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScZP_DVGGl74Uee7VdZgXxtyw9q_Z2hVu6CG0ZWWqSxjAMTYQ/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "서울 강서구 공항대로 376, KBS스포츠월드",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230529110",
+    "title": "예거스컵 성남",
+    "location": "경기",
+    "competitionDate": "2023-07-01",
+    "applyPeriod": {
+      "start": "2023-05-01",
+      "end": "2023-07-01"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeYg0YzAwV62wA9qFhORKB09qulnRV-NJ9tNCxjQ2ChXkVpNg/viewform",
+    "prizeMoney": 1200000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 성남시 수정구 복정로 76, 성남 동서울대학교 체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230501167",
     "title": "2023 본주짓수 회장기 대회(본주짓수네트워크)",
     "location": "경기",
@@ -95,7 +276,7 @@
     "competitionDate": "2023-07-29",
     "applyPeriod": {
       "start": "2023-04-30",
-      "end": "2023-07-23"
+      "end": "2023-06-25"
     },
     "icons": [
       "beginner",
@@ -114,7 +295,7 @@
     "competitionDate": "2023-07-08",
     "applyPeriod": {
       "start": "2023-04-30",
-      "end": "2023-07-02"
+      "end": "2023-06-25"
     },
     "icons": [
       "beginner",
@@ -152,7 +333,7 @@
     "competitionDate": "2023-07-22",
     "applyPeriod": {
       "start": "2023-04-18",
-      "end": "2023-07-16"
+      "end": "2023-06-25"
     },
     "icons": [
       "beginner",
@@ -187,10 +368,10 @@
     "id": "4b738ef0-b542-4412-a668-f20230420010",
     "title": "예거스컵 부천",
     "location": "경기",
-    "competitionDate": "2023-06-24",
+    "competitionDate": "2023-06-18",
     "applyPeriod": {
       "start": "2023-04-18",
-      "end": "2023-06-18"
+      "end": "2023-06-10"
     },
     "icons": [
       "beginner",
@@ -200,7 +381,7 @@
     "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScDvz6_x70Cp2kqaq9lS254TTgEPQXNQDH9895IO2FavYWL_g/viewform",
     "prizeMoney": 1200000,
     "applyMoney": 50000,
-    "locationDetail": "경기 부천시 석천로 293, 부천체육관",
+    "locationDetail": "경기도 부천시 경인로120번길 45, 송내사회체육관",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230419160",
@@ -335,7 +516,7 @@
     "competitionDate": "2023-06-04",
     "applyPeriod": {
       "start": "2023-03-16",
-      "end": "2023-05-21"
+      "end": "2023-05-27"
     },
     "icons": [
       "beginner",
