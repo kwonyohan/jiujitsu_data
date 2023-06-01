@@ -1,5 +1,165 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230601118",
+    "title": "제5회 순천시 주짓수 오픈 토너먼트 챔피언쉽",
+    "location": "전남",
+    "competitionDate": "2023-06-24",
+    "applyPeriod": {
+      "start": "2023-04-25",
+      "end": "2023-06-11"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://blog.naver.com/sunchel1236/223084349243"
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "전남 순천시 팔마로 333, 순천 팔마체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601117",
+    "title": "제17회 남양주시장기 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2023-07-15",
+    "applyPeriod": {
+      "start": "2023-06-01",
+      "end": "2023-07-09"
+    },
+    "icons": [
+      "beginner"
+    ],
+    "applyUrl": "https://m.blog.naver.com/nyjbjj/223117154657",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 남양주시 다산지금로 91, 남양주체육문화센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601116",
+    "title": "제5회 사천시장배 전국주짓수 대회(기/노기)",
+    "location": "경남",
+    "competitionDate": "2023-07-08",
+    "applyPeriod": {
+      "start": "2023-05-05",
+      "end": "2023-06-30"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfW4_8pK8c0cycNp7pdEj0O4pZJJsnsEahgyn1Fizpq_iz8iA/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경상남도 사천시 주공로 32-1, 사천시 삼천포 실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601115",
+    "title": "Onlyone 주짓수챔피언쉽",
+    "location": "충북",
+    "competitionDate": "2023-07-08",
+    "applyPeriod": {
+      "start": "2023-04-26",
+      "end": "2023-06-30"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdDawxQUqUwVAAK_Oy4dorRAyAJ2z51A18CLrcdhMM5SStmew/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,    
+    "locationDetail": "충청북도 청주시 상당구 1순환로1514번길 70, 청주유도회관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601114",
+    "title": "제2회 양주시 회장배 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2023-06-25",
+    "applyPeriod": {
+      "start": "2023-05-23",
+      "end": "2023-06-18"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/58",
+    "prizeMoney": 0,
+    "applyMoney": 30000,
+    "locationDetail": "경기 양주시 고읍남로 172 양주국민체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601113",
+    "title": "제1회 강북구회장배 주짓수 대회",
+    "location": "서울",
+    "competitionDate": "2023-06-04",
+    "applyPeriod": {
+      "start": "2023-05-01",
+      "end": "2023-06-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/57",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "서울 강북구 오현로31길 51, 강북웰빙스포츠센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601112",
+    "title": "2023 의정부시 주짓수 대회",
+    "location": "경기",
+    "competitionDate": "2023-07-08",
+    "applyPeriod": {
+      "start": "2023-06-01",
+      "end": "2023-06-30"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/CrzghrMvwK7/",
+    "prizeMoney": 0,
+    "applyMoney": 30000,
+    "locationDetail": "경기 의정부시 체육로90, 의정부실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601111",
+    "title": "더 파이트 주짓수챔피언쉽 2",
+    "location": "경기",
+    "competitionDate": "2023-07-15",
+    "applyPeriod": {
+      "start": "2023-05-07",
+      "end": "2023-07-08"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScO5a4Xgo3v7mROhJcZBfJc46jc4gAlr5e-cQ1cghjwmAY2ww/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 55000,    
+    "locationDetail": "경기도 의정부시  호암로 95, 신한대학교 은혜관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230601110",
+    "title": "OPMT -76kg BLUE KING(남성블루)",
+    "location": "세종",
+    "competitionDate": "2023-06-10",
+    "applyPeriod": {
+      "start": "2023-05-21",
+      "end": "2023-05-28"
+    },
+    "icons": [
+      "prize"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScOWywJN8G4RMSh0S7uYXTD_jMYifxRCgSQra0nBSCbTZrbow/closedform",
+    "prizeMoney": 500000,
+    "applyMoney": 0,
+    "locationDetail": "세종 보듬3로 100 1동 408, 409호",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230529118",
     "title": "제2회 부산광역시주짓수회 회장기 동호인대회",
     "location": "부산",
