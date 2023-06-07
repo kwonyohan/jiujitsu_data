@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230607230",
+    "title": "제2회 이순신장군배 주짓수 챔피언쉽(유니온FG)",
+    "location": "경남",
+    "competitionDate": "2023-07-22",
+    "applyPeriod": {
+      "start": "2023-06-01",
+      "end": "2023-07-15"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdXfO_4dpf1cVQA-z6NzLxh2Hqouoe7H81taWTeljnYqvYa2Q/viewform",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "경상남도 통영시 평인일주로 841, 통영체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230601118",
     "title": "제5회 순천시 주짓수 오픈 토너먼트 챔피언쉽",
     "location": "전남",
