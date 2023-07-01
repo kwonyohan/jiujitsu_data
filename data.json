@@ -1,5 +1,197 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230701220",
+    "title": "제1회 대한체육회장기 전국주짓수 선수권대회",
+    "location": "경북",
+    "competitionDate": "2023-08-26",
+    "applyPeriod": {
+      "start": "2023-08-01",
+      "end": "2023-08-10"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://www.instagram.com/p/CuBPi7Kxjq-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경상북도 경산시 하양읍 가마실길 50, 경일대학교 종합체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701219",
+    "title": "OPMT -82kg BLUE KING(남성블루)",
+    "location": "세종",
+    "competitionDate": "2023-07-22",
+    "applyPeriod": {
+      "start": "2023-06-11",
+      "end": "2023-06-24"
+    },
+    "icons": [
+      "prize"
+    ],
+    "applyUrl": "https://www.instagram.com/opmt.official/?igshid=YmMyMTA2M2Y%3D",
+    "prizeMoney": 500000,
+    "applyMoney": 0,
+    "locationDetail": "세종 보듬3로 100 1동 408, 409호",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701218",
+    "title": "OPMT -64kg BLUE KING(남성블루)",
+    "location": "세종",
+    "competitionDate": "2023-07-22",
+    "applyPeriod": {
+      "start": "2023-06-11",
+      "end": "2023-06-24"
+    },
+    "icons": [
+      "prize"
+    ],
+    "applyUrl": "https://www.instagram.com/opmt.official/?igshid=YmMyMTA2M2Y%3D",
+    "prizeMoney": 500000,
+    "applyMoney": 0,
+    "locationDetail": "세종 보듬3로 100 1동 408, 409호",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701217",
+    "title": "SGAA 노기 챔피언쉽 2023 SUMMER (초급/중급/상급/프로)",
+    "location": "서울",
+    "competitionDate": "2023-07-16",
+    "applyPeriod": {
+      "start": "2023-06-23",
+      "end": "2023-07-10"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/59",
+    "prizeMoney": 0,
+    "applyMoney": 44000,
+    "locationDetail": "서울 서대문구 백련사길 39 서대문문화체육회관 본관 대체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701216",
+    "title": "SGAA 노기 챔피언쉽 2023 SUMMER (초급/중급/상급/프로)",
+    "location": "서울",
+    "competitionDate": "2023-07-16",
+    "applyPeriod": {
+      "start": "2023-06-23",
+      "end": "2023-07-10"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/59",
+    "prizeMoney": 0,
+    "applyMoney": 44000,
+    "locationDetail": "서울 서대문구 백련사길 39 서대문문화체육회관 본관 대체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701215",
+    "title": "스트릿주짓수 37 성남 오픈",
+    "location": "경기",
+    "competitionDate": "2023-09-09",
+    "applyPeriod": {
+      "start": "2023-06-30",
+      "end": "2023-09-09"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF36-%EC%A7%84%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "경기 성남시 분당구 복정로 76, 동서울대학교체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701214",
+    "title": "스트릿주짓수 36 진주 오픈",
+    "location": "경남",
+    "competitionDate": "2023-08-19",
+    "applyPeriod": {
+      "start": "2023-06-30",
+      "end": "2023-08-11"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF34-%EC%84%9C%EC%9A%B8-%EC%98%A4%ED%94%88-1",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "경상남도 진주시 남강로 1655, 진주종합실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701213",
+    "title": "스트릿주짓수 35 원주 오픈",
+    "location": "서울",
+    "competitionDate": "2023-08-05",
+    "applyPeriod": {
+      "start": "2023-06-30",
+      "end": "2023-07-28"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF34-%EC%84%9C%EC%9A%B8-%EC%98%A4%ED%94%88-2",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "강원도 원주시 서원대로 281, 원주종합체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701212",
+    "title": "예거스컵 천안",
+    "location": "경기",
+    "competitionDate": "2023-09-02",
+    "applyPeriod": {
+      "start": "2023-06-30",
+      "end": "2023-08-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfuMhEQu1Z3Y8VEvssfHkksNfuujG1sNyVDJ6oLKohi4UDigw/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "경기 성남시 수정구 복정로 76, 성남 동서울대학교 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701211",
+    "title": "예거스컵 대전",
+    "location": "대전",
+    "competitionDate": "2023-08-12",
+    "applyPeriod": {
+      "start": "2023-06-30",
+      "end": "2023-08-06"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdYh1TzKzWIhg9h0DMd1A86aq-B8ewnemaqqeB99nua4wO16g/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "대전 서구 배재로197번길 41 도솔다목적체육관, 청소년문화의집",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230701210",
+    "title": "예거스컵 포항",
+    "location": "경북",
+    "competitionDate": "2023-08-06",
+    "applyPeriod": {
+      "start": "2023-06-30",
+      "end": "2023-07-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScdsFsgFi7o1ty_TswPhoi72mdhh5elWUhhtneFoxufgSFTlQ/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항사회체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230607230",
     "title": "제2회 이순신장군배 주짓수 챔피언쉽(유니온FG)",
     "location": "경남",
