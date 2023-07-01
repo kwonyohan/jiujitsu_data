@@ -1,6 +1,6 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f20230701220",
+    "id": "4b738ef0-b542-4412-a668-f20230701219",
     "title": "제1회 대한체육회장기 전국주짓수 선수권대회",
     "location": "경북",
     "competitionDate": "2023-08-26",
@@ -16,7 +16,7 @@
     "locationDetail": "경상북도 경산시 하양읍 가마실길 50, 경일대학교 종합체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20230701219",
+    "id": "4b738ef0-b542-4412-a668-f20230701218",
     "title": "OPMT -82kg BLUE KING(남성블루)",
     "location": "세종",
     "competitionDate": "2023-07-22",
@@ -33,7 +33,7 @@
     "locationDetail": "세종 보듬3로 100 1동 408, 409호",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20230701218",
+    "id": "4b738ef0-b542-4412-a668-f20230701217",
     "title": "OPMT -64kg BLUE KING(남성블루)",
     "location": "세종",
     "competitionDate": "2023-07-22",
@@ -48,23 +48,6 @@
     "prizeMoney": 500000,
     "applyMoney": 0,
     "locationDetail": "세종 보듬3로 100 1동 408, 409호",
-    "priority": 0
-  },{
-    "id": "4b738ef0-b542-4412-a668-f20230701217",
-    "title": "SGAA 노기 챔피언쉽 2023 SUMMER (초급/중급/상급/프로)",
-    "location": "서울",
-    "competitionDate": "2023-07-16",
-    "applyPeriod": {
-      "start": "2023-06-23",
-      "end": "2023-07-10"
-    },
-    "icons": [
-      "absolute"
-    ],
-    "applyUrl": "https://najuha.com/competition/59",
-    "prizeMoney": 0,
-    "applyMoney": 44000,
-    "locationDetail": "서울 서대문구 백련사길 39 서대문문화체육회관 본관 대체육관",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230701216",
