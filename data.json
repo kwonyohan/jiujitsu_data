@@ -1,5 +1,77 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230726213",
+    "title": "예거스컵 천안",
+    "location": "충남",
+    "competitionDate": "2023-09-23",
+    "applyPeriod": {
+      "start": "2023-07-14",
+      "end": "2023-09-17"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1xsghbqFYKrfXFSzcR0M8KOk8X0lBJ1IMxTKy00jVYAY/viewform?edit_requested=true",
+    "prizeMoney": 1200000,
+    "locationDetail": "충청남도 천안시 동남구 상명대길 31, 천안 상명대학교",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230726212",
+    "title": "예거스컵 서울",
+    "location": "경기",
+    "competitionDate": "2023-09-02",
+    "applyPeriod": {
+      "start": "2023-07-14",
+      "end": "2023-08-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfuMhEQu1Z3Y8VEvssfHkksNfuujG1sNyVDJ6oLKohi4UDigw/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "경기 수원시 영통구 광교중앙로 140, 수원 컨벤션센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230726211",
+    "title": "예거스컵 서울",
+    "location": "서울",
+    "competitionDate": "2023-08-27",
+    "applyPeriod": {
+      "start": "2023-07-14",
+      "end": "2023-08-20"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1XX3uKiLvaLgUYefkWImChlzwQwyQMbrm2eaJS0jBhKE/viewform?edit_requested=true",
+    "prizeMoney": 1200000,
+    "locationDetail": "서울 도봉구 노해로69길 132 창동운동장 및 문화체육센터, 도봉구창동문화체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230726210",
+    "title": "예거스컵 양산",
+    "location": "경남",
+    "competitionDate": "2023-08-19",
+    "applyPeriod": {
+      "start": "2023-07-14",
+      "end": "2023-08-13"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSecAvUpc4d4GwJyOKcXm_h6l0Qd3SW9Nr3b9CGOFuOYzscWzA/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "경남 양산시 양산대로 849, 양산 종합운동장 실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230701219",
     "title": "제1회 대한체육회장기 전국주짓수 선수권대회",
     "location": "경북",
