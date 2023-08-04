@@ -1,5 +1,21 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230804180",
+    "title": "제 10회 전국 대학생 주짓수 대회",
+    "location": "서울",
+    "competitionDate": "2023-08-26",
+    "applyPeriod": {
+      "start": "2023-08-02",
+      "end": "2023-08-20"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1lu2NURgCStvnxA_XcZaPxzjK1fVrZqpkOek4-DRYdec/viewform?edit_requested=true&pli=1",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 마포구 백범로 35, 서강대학교 체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230731239",
     "title": "2023년 도봉구협회장배 주짓수대회 제5회",
     "location": "서울",
