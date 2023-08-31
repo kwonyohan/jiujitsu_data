@@ -1,6 +1,80 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f20230731235",
+    "id": "4b738ef0-b542-4412-a668-f20230901000",
+    "title": "2023 히어로즈 오브 주짓수 리그 시즌2",
+    "location": "대구",
+    "competitionDate": "2023-09-10",
+    "applyPeriod": {
+      "start": "2023-08-06",
+      "end": "2023-09-03"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://form.office.naver.com/form/responseView.cmd?formkey=YjY3ZGEzM2EtMWJkZS00ZmNkLTk0OGQtMTk5NGRhMDg3Y2Iw&sourceId=urlshare",
+    "prizeMoney": 250000,
+    "applyMoney": 40000,
+    "locationDetail": "대구 동구 동촌역사로3길 33, 강동문화체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230831237",
+    "title": "제7회 청주시 주짓수회장배 전국주짓수대회",
+    "location": "충북",
+    "competitionDate": "2023-09-09",
+    "applyPeriod": {
+      "start": "2023-08-09",
+      "end": "2023-09-01"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/85",
+    "prizeMoney": 1000000,
+    "applyMoney": 40000,
+    "locationDetail": "충북 청주시 상당구 다리실로 255",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230831236",
+    "title": "2023년 제2회 주짓수 카니발 대회",
+    "location": "서울",
+    "competitionDate": "2023-09-02",
+    "applyPeriod": {
+      "start": "2023-08-07",
+      "end": "2023-08-28"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://m.blog.naver.com/juca2023/223173341375?afterWebWrite=true",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 강서구 양천로49길 106, 궁산다목적체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230831235",
+    "title": "제2회 양주시장배 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2023-09-23",
+    "applyPeriod": {
+      "start": "2023-08-10",
+      "end": "2023-09-17"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/86",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경기 양주시 고읍남로 172, 양주국민체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230831234",
     "title": "알렉산더 파이바 인터내셔널 주짓수 챔피언쉽 김해",
     "location": "경남",
     "competitionDate": "2023-10-14",
@@ -18,7 +92,7 @@
     "locationDetail": "경상남도 김해시 가야로 245, 김해시 공설운동장 실내체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20230731234",
+    "id": "4b738ef0-b542-4412-a668-f20230831233",
     "title": "리얼주짓수18 정읍오픈 챔피언십",
     "location": "전북",
     "competitionDate": "2023-08-26",
