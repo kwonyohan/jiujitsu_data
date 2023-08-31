@@ -1,5 +1,22 @@
 [
   {
+    "id": "1811df88-e534-42c8-ad12-f20230901001",
+    "title": "안양시회장기 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2023-09-02",
+    "applyPeriod": {
+      "start": "2023-08-07",
+      "end": "2023-08-28"
+    },
+    "icons": [
+      "prize"
+    ],
+    "applyUrl": "https://linktr.ee/anyang_bjj",
+    "prizeMoney": 300000,
+    "applyMoney": 40000,
+    "locationDetail": "경기 안양시 동안구 평촌대로 389",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230901000",
     "title": "2023 히어로즈 오브 주짓수 리그 시즌2",
     "location": "대구",
