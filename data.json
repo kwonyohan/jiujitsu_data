@@ -1,21 +1,20 @@
 [
   {
     "id": "4b738ef0-b542-4412-a668-f20230901003",
-    "title": "El Sports 주짓수 챔피언쉽",
-    "location": "서울",
-    "competitionDate": "2023-10-15",
+    "title": "2023 남양주 의장기 주짓수 대회",
+    "location": "경기",
+    "competitionDate": "2023-10-08",
     "applyPeriod": {
-      "start": "2023-08-31",
-      "end": "2023-10-07"
+      "start": "2023-09-01",
+      "end": "2023-09-15"
     },
     "icons": [
       "beginner",
-      "absolute"
     ],
-    "applyUrl": "https://docs.google.com/forms/d/1bt-wyfSmWlnvomkQpdRbiViU54Y13kNUjjg27al219M/viewform?edit_requested=true",
+    "applyUrl": "https://www.instagram.com/nyj_bjj/",
     "prizeMoney": 0,
-    "applyMoney": 30000,
-    "locationDetail": "서울 서대문구 경기대로9길 24, 경기대학교 본관 실내체육관",
+    "applyMoney": 40000,
+    "locationDetail": "경기 남양주시 화도읍 수레로 1259, 화도체육문화센터",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230901002",
