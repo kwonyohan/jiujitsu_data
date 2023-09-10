@@ -1,5 +1,41 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230910001",
+    "title": "신흥무관학교 전국무예대축전 주짓수대회",
+    "location": "서울",
+    "competitionDate": "2023-10-15",
+    "applyPeriod": {
+      "start": "2023-09-01",
+      "end": "2023-09-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/10TgctQelQ9FN-vhYH7Sr7IeXt6Szzld36pqujy6dTrc/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "서울 종로구 세종대로 175 세종이야기, 광화문광장 행사장(세종대왕동상앞)",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230910000",
+    "title": "O LIGA DE COMBATE",
+    "location": "서울",
+    "competitionDate": "2023-11-25",
+    "applyPeriod": {
+      "start": "2023-09-04",
+      "end": "2023-11-23"
+    },
+    "icons": [
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://oligadecombate.quv.kr/",
+    "prizeMoney": 200000,
+    "applyMoney": 70000,
+    "locationDetail": "서울 구로구 구로동 3-33, 신도림오페라하우스 지하소극장",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230901003",
     "title": "2023 남양주 의장기 주짓수 대회",
     "location": "경기",
@@ -148,7 +184,7 @@
     "id": "4b738ef0-b542-4412-a668-f20230831233",
     "title": "리얼주짓수18 정읍오픈 챔피언십",
     "location": "전북",
-    "competitionDate": "2023-08-26",
+    "competitionDate": "2023-10-21",
     "applyPeriod": {
       "start": "2023-08-28",
       "end": "2023-10-13"
