@@ -1,5 +1,60 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230910004",
+    "title": "아이리스 챔피언쉽 수원",
+    "location": "경기",
+    "competitionDate": "2023-10-22",
+    "applyPeriod": {
+      "start": "2023-09-07",
+      "end": "2023-10-14"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/100",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 수원시 영통구 월드컵로 206, 아주대학교 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230910003",
+    "title": "2023년 제6회 아디다스컵 주짓수챔피언쉽 제주",
+    "location": "제주",
+    "competitionDate": "2023-10-08",
+    "applyPeriod": {
+      "start": "2023-09-07",
+      "end": "2023-09-30"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/97",
+    "prizeMoney": 0,
+    "applyMoney": 70000,
+    "locationDetail": "제주특별자치도 서귀포시 중산간서로 95, 제주 서귀포시 강창학 체육공원",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230910002",
+    "title": "2023 주짓수 코리아컵",
+    "location": "서울",
+    "competitionDate": "2023-10-07",
+    "applyPeriod": {
+      "start": "2023-09-08",
+      "end": "2023-10-02"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/98",
+    "prizeMoney": 1000000,
+    "applyMoney": 50000,
+    "locationDetail": "서울 양재대로12길 73-48, 서초종합체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230910001",
     "title": "신흥무관학교 전국무예대축전 주짓수대회",
     "location": "서울",
