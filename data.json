@@ -1,23 +1,7 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f20230912002",
-    "title": "경기도 주짓수 대표선발전",
-    "location": "경기",
-    "competitionDate": "2023-09-24",
-    "applyPeriod": {
-      "start": "2023-09-18",
-      "end": "2023-09-22"
-    },
-    "icons": [
-    ],
-    "applyUrl": "https://www.instagram.com/p/CxCGfJsvKrd/?igshid=MmU2YjMzNjRlOQ%3D%3D",
-    "prizeMoney": 0,
-    "applyMoney": 50000,
-    "locationDetail": "경기 남양주시 화도읍 수레로 1259, 남양주 화도체육문화센터",
-    "priority": 0
-  },{
     "id": "4b738ef0-b542-4412-a668-f20230912001",
-    "title": "OPMT OPMT 블루퀸 -53kg(여성블루)",
+    "title": "OPMT 블루퀸 -53kg(여성블루)",
     "location": "세종",
     "competitionDate": "2023-09-24",
     "applyPeriod": {
