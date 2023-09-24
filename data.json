@@ -1,5 +1,132 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230814166",
+    "title": "El Sports 주짓수 챔피언십",
+    "location": "서울",
+    "competitionDate": "2023-10-15",
+    "applyPeriod": {
+      "start": "2023-08-24",
+      "end": "2023-10-07"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdmXRK1NYVvRKhSEHKLnb8F2Sj6EdnaWEfFmVcj9sRu6zSaLg/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "서울 서대문구 경기대로9길 24, 경기대학교 본관 실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230814165",
+    "title": "스트릿주짓수 43 천안 오픈",
+    "location": "충남",
+    "competitionDate": "2023-12-30",
+    "applyPeriod": {
+      "start": "2023-09-22",
+      "end": "2023-12-22"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF42-%EC%B2%AD%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "충남 천안시 동남구 병천면 유관순길 51, 아우내실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230814164",
+    "title": "스트릿주짓수 42 청주 오픈",
+    "location": "충북",
+    "competitionDate": "2023-12-09",
+    "applyPeriod": {
+      "start": "2023-09-21",
+      "end": "2023-12-01"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF41-%EC%84%9C%EC%9A%B8-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "충북 청주시 청원구 밀레니엄1로 33, 청주시장애인스포츠센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230814163",
+    "title": "스트릿주짓수 40 군산 오픈",
+    "location": "전북",
+    "competitionDate": "2023-11-04",
+    "applyPeriod": {
+      "start": "2023-09-01",
+      "end": "2023-10-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF39-%EC%88%98%EC%9B%90-%EC%98%A4%ED%94%88-1",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "전라북도 군산시 번영로 281, 군산월명체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230924182",
+    "title": "나르샤 주짓수 챔피언십",
+    "location": "경기",
+    "competitionDate": "2023-11-11",
+    "applyPeriod": {
+      "start": "2023-09-14",
+      "end": "2023-10-15"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScPGY70BrcQvVIuU8kJR0Yndjap5fsWnunTg_b8ryt7LtbpEg/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 부천시 소사로 108, 소사국민체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230924181",
+    "title": "2023 KBJJF 서울 오픈",
+    "location": "서울",
+    "competitionDate": "2023-10-15",
+    "applyPeriod": {
+      "start": "2023-09-20",
+      "end": "2023-10-10"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/105",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울특별시 성북구 화랑로13길 144, 성북구민체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230924180",
+    "title": "AJP tour Korea GI&NO-GI",
+    "location": "경기",
+    "competitionDate": "2023-10-07",
+    "applyPeriod": {
+      "start": "2023-09-12",
+      "end": "2023-10-02"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://ajptour.com/en/event/852",
+    "prizeMoney": 0,
+    "applyMoney": 60000,
+    "locationDetail": "경기 안산시 단원구 화정천동로 396, 와동 체육관 옆 체육교실",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230912001",
     "title": "OPMT 블루퀸 -53kg(여성블루)",
     "location": "세종",
@@ -93,7 +220,7 @@
     "id": "4b738ef0-b542-4412-a668-f20230910001",
     "title": "신흥무관학교 전국무예대축전 주짓수대회",
     "location": "서울",
-    "competitionDate": "2023-10-15",
+    "competitionDate": "2023-10-14",
     "applyPeriod": {
       "start": "2023-09-01",
       "end": "2023-09-30"
@@ -344,7 +471,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230814162",
-    "title": "스트릿주짓수 40 서울 오픈",
+    "title": "스트릿주짓수 41 서울 오픈",
     "location": "서울",
     "competitionDate": "2023-11-12",
     "applyPeriod": {
@@ -353,6 +480,7 @@
     },
     "icons": [
       "beginner",
+      "prize",
       "absolute"
     ],
     "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF39-%EC%88%98%EC%9B%90-%EC%98%A4%ED%94%88",
