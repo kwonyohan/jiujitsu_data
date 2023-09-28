@@ -1,5 +1,42 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230928008",
+    "title": "나르샤 주짓수 챔피언십 포항",
+    "location": "경북",
+    "competitionDate": "2023-12-16",
+    "applyPeriod": {
+      "start": "2023-09-26",
+      "end": "2023-12-10"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScjeKdtzvBX9tTAbsUtJR5i4bcbUiOF_7gMx2pPjXgKvqwo-g/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항종합운동장실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230928007",
+    "title": "유니온FG 주짓수리그 창원오픈",
+    "location": "경남",
+    "competitionDate": "2023-10-14",
+    "applyPeriod": {
+      "start": "2023-09-01",
+      "end": "2023-10-06"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe_ODwiSyCrgE1JPONf9jTB8vmdErIAZtTRYUGjD5mGe4Cilg/viewform",
+    "prizeMoney": 200000,
+    "applyMoney": 50000,
+    "locationDetail": "경남 창원시 마산회원구 삼호로 63 마산종합운동장, 마산실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230928006",
     "title": "에드워드컵 송내(유소년)",
     "location": "경기",
@@ -203,7 +240,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230924182",
-    "title": "나르샤 주짓수 챔피언십",
+    "title": "나르샤 주짓수 챔피언십 부천",
     "location": "경기",
     "competitionDate": "2023-11-11",
     "applyPeriod": {
