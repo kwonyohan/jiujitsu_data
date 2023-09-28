@@ -1,5 +1,60 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20230928006",
+    "title": "에드워드컵 송내(유소년)",
+    "location": "경기",
+    "competitionDate": "2023-10-22",
+    "applyPeriod": {
+      "start": "2023-09-25",
+      "end": "2023-10-15"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScxdO7f-1dS0IN6qqA-oqzwqFYNOecOCzyGjkRfswYAHCw3LA/viewform",
+    "prizeMoney": 200000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 부천시 경인로120번길 45, 송내사회체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230928005",
+    "title": "예거스컵 대전",
+    "location": "대전",
+    "competitionDate": "2023-11-19",
+    "applyPeriod": {
+      "start": "2023-09-25",
+      "end": "2023-11-12"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSc1jwfw3Xfm0mZR1eZ7PhX1NB4EADXtl5NgFb93xCK6uU7c5g/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "대구 수성구 미술관로 100, 도솔다목적체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20230928004",
+    "title": "예거스컵 대구",
+    "location": "대구",
+    "competitionDate": "2023-11-12",
+    "applyPeriod": {
+      "start": "2023-09-25",
+      "end": "2023-11-05"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScn6iPwph-9do_nduHx0qP2jmzEq-WxSS_DGG-QWXyei01_EQ/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "대구 동구 동촌역사로3길 33, 강동문화체육센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230928003",
     "title": "제3회 광주광역시 광산구청장배 주짓수대회",
     "location": "광주",
