@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231011000",
+    "title": "예거스컵 포항",
+    "location": "경북",
+    "competitionDate": "2023-11-26",
+    "applyPeriod": {
+      "start": "2023-10-01",
+      "end": "2023-11-19"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScfCpDDrZtNsSZwPZybKM-foUq34zOMjExKEfDsSBlAW44Pvg/viewform",
+    "prizeMoney": 1200000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항 실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20230928190",
     "title": "나르샤 주짓수 챔피언십 대전",
     "location": "대전",
@@ -290,7 +308,7 @@
     "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScPGY70BrcQvVIuU8kJR0Yndjap5fsWnunTg_b8ryt7LtbpEg/viewform",
     "prizeMoney": 0,
     "applyMoney": 50000,
-    "locationDetail": "경기 부천시 소사로 108, 소사국민체육센터",
+    "locationDetail": "경기 부천시 송내대로 239 소풍 6층 제6에프74호, 스포츠앤코",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230924181",
