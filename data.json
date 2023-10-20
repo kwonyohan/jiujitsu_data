@@ -1,5 +1,60 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231020006",
+    "title": "제1회 히간마차도배 전국주짓수 챔피언쉽",
+    "location": "경기",
+    "competitionDate": "2023-11-26",
+    "applyPeriod": {
+      "start": "2023-10-13",
+      "end": "2023-11-15"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdfvPbEPXwvZCD-jDuDvyakfDPorMQ6oJuvwYNqh4UiVZHJKQ/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기도 광주시 회안대로 891, 경기광주문화스포츠센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231020005",
+    "title": "2023 KBJJF 부산 오픈",
+    "location": "부산",
+    "competitionDate": "2023-11-11",
+    "applyPeriod": {
+      "start": "2023-10-17",
+      "end": "2023-11-05"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/114",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "부산 해운대구 APEC로 55, 벡스코",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231020004",
+    "title": "2023 KBJJF 일산 오픈",
+    "location": "경기",
+    "competitionDate": "2023-11-04",
+    "applyPeriod": {
+      "start": "2023-10-18",
+      "end": "2023-10-29"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/112",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 고양시 일산서구 킨텍스로 217-60, 일산 킨텍스",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231020003",
     "title": "예거스컵 성남",
     "location": "경기",
