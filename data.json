@@ -1,5 +1,56 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231023232",
+    "title": "2024 주짓수 청소년대표선발대회",
+    "location": "경북",
+    "competitionDate": "2023-11-18",
+    "applyPeriod": {
+      "start": "2023-10-30",
+      "end": "2023-11-07"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://jjak.or.kr/bbs/board.php?bo_table=gamenotice&wr_id=140",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경상북도 경산시 하양읍 가마실길 50, 경북 경일대학교체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231023231",
+    "title": "2024 주짓수 국가대표선발대회",
+    "location": "경북",
+    "competitionDate": "2023-11-19",
+    "applyPeriod": {
+      "start": "2023-10-30",
+      "end": "2023-11-07"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://jjak.or.kr/bbs/board.php?bo_table=gamenotice&wr_id=140",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경상북도 경산시 하양읍 가마실길 50, 경북 경일대학교체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231023230",
+    "title": "리얼주짓수19 전주오픈 챔피언십",
+    "location": "전북",
+    "competitionDate": "2023-12-02",
+    "applyPeriod": {
+      "start": "2023-08-28",
+      "end": "2023-11-24"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://www.realbjj.co.kr/detail.php?contest_no=31",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "전북 전주시 완산구 백제대로 310, 화산체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231020203",
     "title": "제 1회 부산광역시 생활체육주짓수대회",
     "location": "부산",
