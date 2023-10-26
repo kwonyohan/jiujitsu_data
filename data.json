@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231026210",
+    "title": "나르샤 주짓수 챔피언십5 군산",
+    "location": "전북",
+    "competitionDate": "2023-12-30",
+    "applyPeriod": {
+      "start": "2023-10-17",
+      "end": "2023-12-24"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf9ULV-fxRXreqt__X_I7Xh02ulY-hnFG9eqUFvgd6UsW75aw/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "전북 군산시 번영로 281, 월명종합경기장",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231023232",
     "title": "2024 주짓수 청소년대표선발대회",
     "location": "경북",
@@ -269,7 +287,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230928190",
-    "title": "나르샤 주짓수 챔피언십 대전",
+    "title": "나르샤 주짓수 챔피언십3 대전",
     "location": "대전",
     "competitionDate": "2023-12-09",
     "applyPeriod": {
@@ -280,15 +298,15 @@
       "beginner",
       "absolute"
     ],
-    "applyUrl": "https://docs.google.com/forms/d/1lspbAD6o4VG48TE7P6WlS5TJVGIQCExptYibaXliP28/viewform?edit_requested=true",
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSflDZbH7Pf0eks_hZmnxIxbGfmABdfwXas2XM_EgHRn56vWVQ/viewform",
     "prizeMoney": 0,
     "applyMoney": 50000,
     "locationDetail": "대전 대덕구 석봉로 8, 이문고등학교대죽체육관",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230928009",
-    "title": "나르샤 주짓수 챔피언십 부평(유소년)",
-    "location": "인천",
+    "title": "나르샤 주짓수 챔피언십2 부천(유소년)",
+    "location": "경기",
     "competitionDate": "2023-12-02",
     "applyPeriod": {
       "start": "2023-09-26",
@@ -301,11 +319,11 @@
     "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdEqCuIkLeUo4vsHuGIng4fQz8VgaO8HAphLG2d6Q-U8ALcyQ/viewform",
     "prizeMoney": 0,
     "applyMoney": 50000,
-    "locationDetail": "인천 부평구 마장로 362 2층, 청천주짓수체육관",
+    "locationDetail": "경기 부천시 중동로248번길 105 조이럭타운 6층, 팀엑슬 주짓수 체육관",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230928008",
-    "title": "나르샤 주짓수 챔피언십 포항",
+    "title": "나르샤 주짓수 챔피언십4 포항",
     "location": "경북",
     "competitionDate": "2023-12-16",
     "applyPeriod": {
@@ -544,7 +562,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230924182",
-    "title": "나르샤 주짓수 챔피언십 부천",
+    "title": "나르샤 주짓수 챔피언십1 부천",
     "location": "경기",
     "competitionDate": "2023-11-11",
     "applyPeriod": {
