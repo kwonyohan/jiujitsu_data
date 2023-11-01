@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231101234",
+    "title": "2023 히어로즈 오브 주짓수 리그 시즌3",
+    "location": "대구",
+    "competitionDate": "2023-12-03",
+    "applyPeriod": {
+      "start": "2023-10-30",
+      "end": "2023-11-24"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScGR9TxPTjVZXYqJepxgLx8XxD34yAEMUgsggtlUB9q5PB1fw/viewform",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "대구 북구 고성로 191, 대구복합스포츠타운 다목적체육관 3층",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231101233",
     "title": "제7회 아디다스컵 주짓수챔피언십 김해",
     "location": "경남",
