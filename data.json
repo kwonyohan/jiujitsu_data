@@ -1,5 +1,79 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231101233",
+    "title": "제7회 아디다스컵 주짓수챔피언십 김해",
+    "location": "경남",
+    "competitionDate": "2023-12-09",
+    "applyPeriod": {
+      "start": "2023-10-20",
+      "end": "2023-12-01"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfZKvhBMFn68nP3dyASX1Qvw2Rny0U4TJswfcIIIKFapC3rDw/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 60000,
+    "locationDetail": "경남 김해시 가야로 245, 김해공설운동장체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231101232",
+    "title": "제15회 부산오픈 주짓수 챔피언쉽 대회",
+    "location": "부산",
+    "competitionDate": "2023-12-03",
+    "applyPeriod": {
+      "start": "2023-10-04",
+      "end": "2023-11-25"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdmXRK1NYVvRKhSEHKLnb8F2Sj6EdnaWEfFmVcj9sRu6zSaLg/viewform",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "부산 북구 사랑로 132번길 88, 부산과학기술대학교 실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231101231",
+    "title": "El Sports 주짓수 챔피언십 천안",
+    "location": "충남",
+    "competitionDate": "2023-12-02",
+    "applyPeriod": {
+      "start": "2023-10-08",
+      "end": "2023-11-23"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdmXRK1NYVvRKhSEHKLnb8F2Sj6EdnaWEfFmVcj9sRu6zSaLg/viewform",
+    "prizeMoney": 200000,
+    "applyMoney": 50000,
+    "locationDetail": "충남 천안시 동남구 상명대길 31, 상명대학교 천안캠퍼스 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231101230",
+    "title": "제1회 목포시 회장기 주짓수대회",
+    "location": "전남",
+    "competitionDate": "2023-11-25",
+    "applyPeriod": {
+      "start": "2023-10-24",
+      "end": "2023-11-18"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe4HIeZlcAv8X9z5iMwUQRcznT1cG_fKNrTVU4aHBqZQrmA7Q/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "전라남도 목포시 해양대학로 91, 목포해양대학교체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231027160",
     "title": "TEAM J.S배 3vs3 주짓수 대회",
     "location": "경북",
