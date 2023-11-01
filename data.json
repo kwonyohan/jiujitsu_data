@@ -851,24 +851,6 @@
     "locationDetail": "서울 종로구 세종대로 175 세종이야기, 광화문광장 행사장(세종대왕동상앞)",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20230910000",
-    "title": "O LIGA DE COMBATE",
-    "location": "서울",
-    "competitionDate": "2023-11-25",
-    "applyPeriod": {
-      "start": "2023-09-04",
-      "end": "2023-11-23"
-    },
-    "icons": [
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "http://oligadecombate.quv.kr/",
-    "prizeMoney": 200000,
-    "applyMoney": 70000,
-    "locationDetail": "서울 구로구 구로동 3-33, 신도림오페라하우스 지하소극장",
-    "priority": 0
-  },{
     "id": "4b738ef0-b542-4412-a668-f20230901003",
     "title": "2023 남양주 의장기 주짓수 대회",
     "location": "경기",
