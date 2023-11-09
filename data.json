@@ -1,5 +1,40 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231109131",
+    "title": "제 1회 울산 리그 오브 주짓수",
+    "location": "울산",
+    "competitionDate": "2023-12-03",
+    "applyPeriod": {
+      "start": "2023-11-03",
+      "end": "2023-11-26"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/CzYD6IjLr9A/?igshid=MWdhMjdzam11bzk1MQ%3D%3D&img_index=1",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "울산 울주군 온산읍 덕신리 50-1, 온산 문화체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231109130",
+    "title": "제 5회 프라임 생활체육 주짓수대회",
+    "location": "충북",
+    "competitionDate": "2023-11-26",
+    "applyPeriod": {
+      "start": "2023-10-23",
+      "end": "2023-11-10"
+    },
+    "icons": [
+      "beginner"
+    ],
+    "applyUrl": "https://m.cafe.naver.com/ca-fe/cbbjjaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "충북 청주시 서원구 흥덕로 55, 남궁유도회관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231101234",
     "title": "2023 히어로즈 오브 주짓수 리그 시즌3",
     "location": "대구",
