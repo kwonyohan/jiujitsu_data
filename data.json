@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231122130",
+    "title": "안산시회장배 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2023-12-03",
+    "applyPeriod": {
+      "start": "2023-10-02",
+      "end": "2023-11-24"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://bjjakorea.com/match/contents?game_id=60",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 안산시 단원구 적금로 202, 안산 올림픽기념관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231109131",
     "title": "제 1회 울산 리그 오브 주짓수",
     "location": "울산",
