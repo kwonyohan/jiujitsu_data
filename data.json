@@ -1,5 +1,21 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20231126143",
+    "title": "제6회 아산시 협회장배 주짓수 대회",
+    "location": "충남",
+    "competitionDate": "2023-12-10",
+    "applyPeriod": {
+      "start": "2023-10-10",
+      "end": "2023-11-26"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://naver.me/F7ySzKmU",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "충남 아산시 풍기동 326-2, 이순신종합운동장 복합스포츠센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20231126142",
     "title": "OPMT -76kg 프로리그 참가선수 선발전",
     "location": "인천",
