@@ -1,5 +1,21 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20241229180",
+    "title": "2024년 경기도 주짓수 회장배 오픈 챔피언쉽",
+    "location": "경기",
+    "competitionDate": "2024-02-24",
+    "applyPeriod": {
+      "start": "2024-01-15",
+      "end": "2024-02-12"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://www.instagram.com/p/C1Rwj3rx9cl/?igsh=MWZoOWJhbTV6MHN0eQ==",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "미정",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241225034",
     "title": "DAFC 001 케이지 주짓수 리그",
     "location": "경기",
@@ -91,7 +107,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20241225029",
-    "title": "SGAA 노기 챔피언쉽 2024 winter 서울",
+    "title": "SGAA 기/노기 챔피언쉽 2024 winter 서울",
     "location": "서울",
     "competitionDate": "2024-01-21",
     "applyPeriod": {
