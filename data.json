@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20241229184",
+    "title": "아이리스 챔피언쉽 광주",
+    "location": "광주",
+    "competitionDate": "2024-02-03",
+    "applyPeriod": {
+      "start": "2023-12-31",
+      "end": "2024-01-27"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/135",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "광주 북구 첨단연신로29번길 15, 북구종합체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241229183",
     "title": "2024년 인천시 오픈 주짓수 토너먼트",
     "location": "인천",
@@ -237,8 +255,8 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20241225025",
-    "title": "예거스컵 인천",
-    "location": "인천",
+    "title": "예거스컵 송도",
+    "location": "송도",
     "competitionDate": "2024-02-03",
     "applyPeriod": {
       "start": "2023-12-13",
