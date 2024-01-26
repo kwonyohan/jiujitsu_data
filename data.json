@@ -1,24 +1,5 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f20240126165",
-    "title": "예거스컵 대구",
-    "location": "대구",
-    "competitionDate": "2024-03-30",
-    "applyPeriod": {
-      "start": "2023-12-13",
-      "end": "2024-02-24"
-    },
-    "icons": [
-      "beginner",
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeXDRx7wuak883t60hwJIJHM1G_V6IiUftzaff2Szo1d_CpwA/viewform",
-    "prizeMoney": 500000,
-    "applyMoney": 55000,
-    "locationDetail": "대구 동구 동촌역사로3길 33, 강동문화체육센터",
-    "priority": 0
-  },{
     "id": "4b738ef0-b542-4412-a668-f20240126164",
     "title": "예거스컵 서울",
     "location": "서울",
