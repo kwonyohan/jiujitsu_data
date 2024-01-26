@@ -1,24 +1,5 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f20240126164",
-    "title": "예거스컵 서울",
-    "location": "서울",
-    "competitionDate": "2024-03-10",
-    "applyPeriod": {
-      "start": "2023-12-13",
-      "end": "2024-03-03"
-    },
-    "icons": [
-      "beginner",
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScsbHNTpNClXzAlOW2sfJRCtFfW3jczug9Sn4BcysNDbY-r-Q/viewform",
-    "prizeMoney": 500000,
-    "applyMoney": 55000,
-    "locationDetail": "서울 도봉구 노해로69길 132, 창동운동장 및 문화체육센터",
-    "priority": 0
-  },{
     "id": "4b738ef0-b542-4412-a668-f20240126163",
     "title": "예거스컵 포항",
     "location": "경북",
