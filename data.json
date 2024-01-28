@@ -1,5 +1,97 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240128222",
+    "title": "제3회 양주시장배 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2024-03-23",
+    "applyPeriod": {
+      "start": "2024-01-24",
+      "end": "2024-03-17"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/146",
+    "prizeMoney": 0,
+    "applyMoney": 45000,
+    "locationDetail": "경기 양주시 고암동, 옥정체육공원 실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240128221",
+    "title": "2024 KBJJF 용인 오픈",
+    "location": "경기",
+    "competitionDate": "2024-04-27",
+    "applyPeriod": {
+      "start": "2024-01-19",
+      "end": "2024-04-21"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/145",
+    "prizeMoney": 400000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 용인시 처인구 경안천로 76, 용인시실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240128220",
+    "title": "2024 KBJJF 서울 오픈",
+    "location": "서울",
+    "competitionDate": "2024-04-14",
+    "applyPeriod": {
+      "start": "2024-01-19",
+      "end": "2024-04-07"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/144",
+    "prizeMoney": 400000,
+    "applyMoney": 50000,
+    "locationDetail": "서울 성북구 화랑로13길 144, 성북구민체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240128189",
+    "title": "리그오브레거시 004 대구",
+    "location": "대구",
+    "competitionDate": "2024-02-03",
+    "applyPeriod": {
+      "start": "2024-01-02",
+      "end": "2024-01-28"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeJP9wreDTutJ8jBkuLzdl3zVU8JC_GXFA9cuCoCTs6-Rccrg/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "대구 북구 고성로 191, 대구시민체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240128188",
+    "title": "제10회 플레이 주짓수컵",
+    "location": "경기",
+    "competitionDate": "2024-02-03",
+    "applyPeriod": {
+      "start": "2024-01-19",
+      "end": "2024-01-31"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScuehBTnvNR3IzpZe8gK2NEPpTX8WaFA9WLB0zUeB1N7EHuMg/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경기 김포시 김포한강8로 198-3, 김포생활체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240128187",
     "title": "리얼주짓수20 광주오픈 챔피언십",
     "location": "광주",
@@ -237,7 +329,7 @@
     "applyUrl": "https://www.instagram.com/p/C1Rwj3rx9cl/?igsh=MWZoOWJhbTV6MHN0eQ==",
     "prizeMoney": 0,
     "applyMoney": 40000,
-    "locationDetail": "미정",
+    "locationDetail": "경기 안산시 단원구 적금로 202, 안산 올림픽 기념관 체육관",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20231225034",
@@ -3412,7 +3504,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20230206190",
-    "title": "리그오브레거시 003 대구",
+    "title": "레거시 003 대구",
     "location": "대구",
     "competitionDate": "2023-02-26",
     "applyPeriod": {
