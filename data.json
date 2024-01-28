@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240128187",
+    "title": "리얼주짓수20 광주오픈 챔피언십",
+    "location": "광주",
+    "competitionDate": "2024-03-02",
+    "applyPeriod": {
+      "start": "2024-01-07",
+      "end": "2024-02-23"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "http://www.realbjj.co.kr/detail.php?contest_no=32",
+    "prizeMoney": 500000,
+    "applyMoney": 50000,
+    "locationDetail": "광주 서구 금화로278, 빛고을체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240128186",
     "title": "스트릿주짓수 49 순천 오픈",
     "location": "전남",
