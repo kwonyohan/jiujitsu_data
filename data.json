@@ -1,6 +1,82 @@
 [
   {
-    "id": "4b738ef0-b542-4412-a668-f20241229184",
+    "id": "4b738ef0-b542-4412-a668-f20240128183",
+    "title": "예거스컵 대구",
+    "location": "대구",
+    "competitionDate": "2024-03-30",
+    "applyPeriod": {
+      "start": "2023-12-13",
+      "end": "2024-02-24"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeXDRx7wuak883t60hwJIJHM1G_V6IiUftzaff2Szo1d_CpwA/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "대구 동구 동촌역사로3길 33, 대구 강동문화체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240128182",
+    "title": "예거스컵 서울",
+    "location": "서울",
+    "competitionDate": "2024-03-10",
+    "applyPeriod": {
+      "start": "2023-12-13",
+      "end": "2024-03-03"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScsbHNTpNClXzAlOW2sfJRCtFfW3jczug9Sn4BcysNDbY-r-Q/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "서울 도봉구 노해로69길 132, 창동운동장 및 문화체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240128181",
+    "title": "예거스컵 포항",
+    "location": "충남",
+    "competitionDate": "2024-02-25",
+    "applyPeriod": {
+      "start": "2023-12-13",
+      "end": "2024-02-18"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd9zxv1yT-zpsvPhgMxmrMWc884LeSvwjTgZUPoytcvKN4H0g/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항종합체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240128180",
+    "title": "예거스컵 천안",
+    "location": "충남",
+    "competitionDate": "2024-02-24",
+    "applyPeriod": {
+      "start": "2023-12-13",
+      "end": "2024-02-18"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScvXUHOH2jD3BhYi6X5R0ezWo3Qr3MJkedIY6FdYTLpf8tHag/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "충남 아산시 풍기동 326-2, 이순신 종합체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20231229184",
     "title": "아이리스 챔피언쉽 광주",
     "location": "광주",
     "competitionDate": "2024-02-03",
@@ -18,7 +94,7 @@
     "locationDetail": "광주 북구 첨단연신로29번길 15, 북구종합체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241229183",
+    "id": "4b738ef0-b542-4412-a668-f20231229183",
     "title": "2024년 인천시 오픈 주짓수 토너먼트",
     "location": "인천",
     "competitionDate": "2023-11-25",
@@ -36,7 +112,7 @@
     "locationDetail": "인천광역시 연수구 송도문화로 119 체육관, 인천 송도 글로벌캠퍼스 체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241229182",
+    "id": "4b738ef0-b542-4412-a668-f20231229182",
     "title": "제8회 아디다스컵 주짓수챔피언십 대전",
     "location": "대전",
     "competitionDate": "2024-01-13",
@@ -54,7 +130,7 @@
     "locationDetail": "대전광역시 서구 배재로197번길 4,대전 도솔다목적체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241229181",
+    "id": "4b738ef0-b542-4412-a668-f20231229181",
     "title": "El Sports 주짓수 챔피언십 수원",
     "location": "경기",
     "competitionDate": "2024-02-24",
@@ -72,7 +148,7 @@
     "locationDetail": "경기도 수원시 영통구 월드컵로 206, 아주대학교 체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241229180",
+    "id": "4b738ef0-b542-4412-a668-f20231229180",
     "title": "2024년 경기도 주짓수 회장배 오픈 챔피언쉽",
     "location": "경기",
     "competitionDate": "2024-02-24",
@@ -89,7 +165,7 @@
     "locationDetail": "미정",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225034",
+    "id": "4b738ef0-b542-4412-a668-f20231225034",
     "title": "DAFC 001 케이지 주짓수 리그",
     "location": "경기",
     "competitionDate": "2024-01-13",
@@ -107,7 +183,7 @@
     "locationDetail": "경기 의정부시 평화로244번길 29 3층, 킹에프씨 투에프인터내셔널",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225033",
+    "id": "4b738ef0-b542-4412-a668-f20231225033",
     "title": "El Sports 주짓수 챔피언십 서울",
     "location": "서울",
     "competitionDate": "2024-02-03",
@@ -125,7 +201,7 @@
     "locationDetail": "서울 동대문구 답십리로 210-3, 동대문구체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225032",
+    "id": "4b738ef0-b542-4412-a668-f20231225032",
     "title": "El Sports 주짓수 챔피언십 천안",
     "location": "충남",
     "competitionDate": "2024-01-13",
@@ -143,7 +219,7 @@
     "locationDetail": "충청남도 천안시 서북구 성환읍 성산샘길 45, 남서울대학교 성암문화체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225031",
+    "id": "4b738ef0-b542-4412-a668-f20231225031",
     "title": "나르샤 주짓수 챔피언십 대구",
     "location": "대구",
     "competitionDate": "2024-01-28",
@@ -161,7 +237,7 @@
     "locationDetail": "대구 동구 동촌역사로3길 33, 강동문화체육센터",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225030",
+    "id": "4b738ef0-b542-4412-a668-f20231225030",
     "title": "나르샤 주짓수 챔피언십 서울",
     "location": "서울",
     "competitionDate": "2024-01-21",
@@ -179,7 +255,7 @@
     "locationDetail": "서울 강서구 화곡로65길 62, 강서구민올림픽체육센터",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225029",
+    "id": "4b738ef0-b542-4412-a668-f20231225029",
     "title": "SGAA 기/노기 챔피언쉽 2024 winter 서울",
     "location": "서울",
     "competitionDate": "2024-01-21",
@@ -197,7 +273,7 @@
     "locationDetail": "서울 서대문구 백련사길 39, 서대문문화체육회관 본관 대체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225028",
+    "id": "4b738ef0-b542-4412-a668-f20231225028",
     "title": "스트릿주짓수 46 성남 오픈",
     "location": "경기",
     "competitionDate": "2024-02-24",
@@ -216,7 +292,7 @@
     "locationDetail": "경기 성남시 중원구 광명로 377, 신구대학교 실내체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225027",
+    "id": "4b738ef0-b542-4412-a668-f20231225027",
     "title": "스트릿주짓수 45 대전 오픈",
     "location": "대전",
     "competitionDate": "2024-02-03",
@@ -235,7 +311,7 @@
     "locationDetail": "대전광역시 유성구 엑스포로 107, 대전컨벤션센터",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225026",
+    "id": "4b738ef0-b542-4412-a668-f20231225026",
     "title": "스트릿주짓수 44 수원 오픈",
     "location": "경기",
     "competitionDate": "2024-01-27",
@@ -254,7 +330,7 @@
     "locationDetail": "경기 수원시 영통구 월드컵로 206, 아주대학교 실내체육관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225025",
+    "id": "4b738ef0-b542-4412-a668-f20231225025",
     "title": "예거스컵 송도",
     "location": "송도",
     "competitionDate": "2024-02-03",
@@ -273,7 +349,7 @@
     "locationDetail": "인천 연수구 송도문화로 119, 송도 글로벌캠퍼스",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225024",
+    "id": "4b738ef0-b542-4412-a668-f20231225024",
     "title": "예거스컵 서울",
     "location": "서울",
     "competitionDate": "2024-01-27",
@@ -292,7 +368,7 @@
     "locationDetail": "대전 서구 배재로197번길 41 도솔다목적체육관, 청소년문화의집",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225023",
+    "id": "4b738ef0-b542-4412-a668-f20231225023",
     "title": "예거스컵 대전",
     "location": "대전",
     "competitionDate": "2024-01-27",
@@ -311,7 +387,7 @@
     "locationDetail": "대전 서구 배재로197번길 41 도솔다목적체육관, 청소년문화의집",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225022",
+    "id": "4b738ef0-b542-4412-a668-f20231225022",
     "title": "예거스컵 천안",
     "location": "충남",
     "competitionDate": "2024-01-21",
@@ -330,7 +406,7 @@
     "locationDetail": "충남 아산시 풍기동 326-2, 이순신종합운동장스포츠센터",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225021",
+    "id": "4b738ef0-b542-4412-a668-f20231225021",
     "title": "예거스컵 양산",
     "location": "경남",
     "competitionDate": "2024-01-20",
@@ -349,7 +425,7 @@
     "locationDetail": "경남 양산시 양산대로 849, 종합운동장",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20241225020",
+    "id": "4b738ef0-b542-4412-a668-f20231225020",
     "title": "예거스컵 송도",
     "location": "서울",
     "competitionDate": "2024-01-13",
