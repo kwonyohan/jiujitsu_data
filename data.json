@@ -1,5 +1,22 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240201230",
+    "title": "DAFC 002 케이지 주짓수 White&Blue 예선",
+    "location": "경기",
+    "competitionDate": "2024-02-25",
+    "applyPeriod": {
+      "start": "2024-01-30",
+      "end": "2024-02-18"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfSG_yvWQooFPgcMdsG3CJoeXdIhR7bpXayvVO4BKrEBQE99g/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 의정부시 평화로244번길 29 3층, 의정부 킹에프씨 투에프인터내셔널",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240128231",
     "title": "제1회 컨트롤 컵",
     "location": "충남",
