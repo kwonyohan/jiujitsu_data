@@ -1,5 +1,22 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240203150",
+    "title": "SGAA 노기 Point Time 1",
+    "location": "서울",
+    "competitionDate": "2024-02-24",
+    "applyPeriod": {
+      "start": "2024-01-30",
+      "end": "2024-02-21"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://linktr.ee/sgaaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 20000,
+    "locationDetail": "서울 중랑구 망우로190 3층, 딥앤하이스포츠",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240201230",
     "title": "DAFC 002 케이지 주짓수 White&Blue 예선",
     "location": "경기",
