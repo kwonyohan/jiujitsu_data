@@ -99,6 +99,7 @@
       "end": "2024-03-23"
     },
     "icons": [
+      "prize"
     ],
     "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfOnUq6YzZPOnrus8z1URU6Zdxkt3UzcNZkoBclH5icV-RdTA/viewform",
     "prizeMoney": 500000,
@@ -302,10 +303,11 @@
       "end": "2024-03-16"
     },
     "icons": [
+      "prize",
       "absolute"
     ],
     "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfSG_yvWQooFPgcMdsG3CJoeXdIhR7bpXayvVO4BKrEBQE99g/viewform",
-    "prizeMoney": 0,
+    "prizeMoney": 300000,
     "applyMoney": 50000,
     "locationDetail": "경기 의정부시 평화로244번길 29 3층, 의정부 킹에프씨 투에프인터내셔널",
     "priority": 0
