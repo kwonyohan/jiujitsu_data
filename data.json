@@ -1,5 +1,21 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240303221",
+    "title": "제4회 회장기 전국주짓수 선수권대회",
+    "location": "경북",
+    "competitionDate": "2024-03-09",
+    "applyPeriod": {
+      "start": "2024-02-16",
+      "end": "2024-02-26"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://jjak.or.kr/bbs/board.php?bo_table=gamenotice&wr_id=150",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경상북도 경산시 하양읍 가마실길 50, 경일대학교 종합체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240303220",
     "title": "유니온FG 주짓수리그 창원오픈",
     "location": "경남",
@@ -91,25 +107,6 @@
     "locationDetail": "경기 안산시 단원구 적금로 202, 안산 올림픽기념관",
     "priority": 0
   },{
-    "id": "4b738ef0-b542-4412-a668-f20240303216",
-    "title": "2024 안산시회장배 주짓수대회",
-    "location": "경기",
-    "competitionDate": "2024-05-11",
-    "applyPeriod": {
-      "start": "2024-03-01",
-      "end": "2024-05-06"
-    },
-    "icons": [
-      "beginner",
-      "prize",
-      "absolute"
-    ],
-    "applyUrl": "https://bjjakorea.com/match/contents?game_id=61",
-    "prizeMoney": 0,
-    "applyMoney": 50000,
-    "locationDetail": "경기 안산시 단원구 적금로 202, 안산 올림픽기념관",
-    "priority": 0
-  },{
     "id": "4b738ef0-b542-4412-a668-f20240303215",
     "title": "코리아주짓수 챔피언쉽 16 안산",
     "location": "경기",
@@ -150,7 +147,7 @@
     "id": "4b738ef0-b542-4412-a668-f20240303213",
     "title": "스트릿주짓수 52 구미 오픈",
     "location": "경북",
-    "competitionDate": "2024-04-29",
+    "competitionDate": "2024-04-28",
     "applyPeriod": {
       "start": "2024-02-07",
       "end": "2024-04-19"
