@@ -1,5 +1,23 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240303222",
+    "title": "2024울산 리그오브 주짓수 대회2",
+    "location": "울산",
+    "competitionDate": "2024-03-24",
+    "applyPeriod": {
+      "start": "2024-02-26",
+      "end": "2024-03-16"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeFxKSAW6jaqK-895mLsv_29-E5vJOgUeYRHUjI_rqagTpVeQ/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "울산 울주군 온산읍 덕신리 50-1, 온산문화체육센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240303221",
     "title": "제4회 회장기 전국주짓수 선수권대회",
     "location": "경북",
