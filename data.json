@@ -1,5 +1,41 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240303224",
+    "title": "DAFC 002 케이지 주짓수 퍼플&브라운,블랙 최강자전",
+    "location": "경기",
+    "competitionDate": "2024-03-30",
+    "applyPeriod": {
+      "start": "2024-02-23",
+      "end": "2024-03-23"
+    },
+    "icons": [
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdog4lQWQrxb1i6FFiodBhsNi3omredI6lZNYNVpNxLGuBxFQ/viewform",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 의정부시 평화로244번길 29 3층, 의정부 킹에프씨 투에프인터내셔널",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240303223",
+    "title": "DAFC 002 케이지 주짓수 White&Blue",
+    "location": "경기",
+    "competitionDate": "2024-03-23",
+    "applyPeriod": {
+      "start": "2024-02-22",
+      "end": "2024-03-16"
+    },
+    "icons": [
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfSG_yvWQooFPgcMdsG3CJoeXdIhR7bpXayvVO4BKrEBQE99g/viewform",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "경기 의정부시 평화로244번길 29 3층, 의정부 킹에프씨 투에프인터내셔널",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240303222",
     "title": "2024울산 리그오브 주짓수 대회2",
     "location": "울산",
@@ -303,7 +339,6 @@
       "end": "2024-03-16"
     },
     "icons": [
-      "prize",
       "absolute"
     ],
     "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfSG_yvWQooFPgcMdsG3CJoeXdIhR7bpXayvVO4BKrEBQE99g/viewform",
