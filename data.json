@@ -1,5 +1,41 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240401235",
+    "title": "코리아주짓수 챔피언쉽 천안",
+    "location": "경기",
+    "competitionDate": "2024-06-02",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-05-26"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.koreajiu.com/",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "충남 천안시 서북구 번영로 208, 유관순 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401234",
+    "title": "나르샤 주짓수 챔피언십 서울",
+    "location": "서울",
+    "competitionDate": "2024-04-14",
+    "applyPeriod": {
+      "start": "2024-03-03",
+      "end": "2024-04-07"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/164",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "서울 도봉구 노해로69길 132, 창동운동장 및 문화체육센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240401233",
     "title": "제8회 아디다스컵 주짓수챔피언십 제주",
     "location": "제주",
