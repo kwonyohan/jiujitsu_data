@@ -1,5 +1,62 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240401222",
+    "title": "예거스컵 창원",
+    "location": "경남",
+    "competitionDate": "2024-05-11",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-05-06"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdyYyWY_PcBezmIZnNn8BZCaBl-ohPudwS2YoZaWNUpoSSxww/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "경남 창원시 마산회원구 삼호로 63, 마산종합운동장",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401221",
+    "title": "예거스컵 아산",
+    "location": "충남",
+    "competitionDate": "2024-05-04",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-04-28"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfNOHUn0r_kXUs94_ZhleIfsJDa9FAgOCYVVWZrXcdoVeZurQ/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "충남 아산시 남부로 370-24, 이순신종합운동장",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401220",
+    "title": "예거스컵 대구",
+    "location": "대구",
+    "competitionDate": "2024-04-28",
+    "applyPeriod": {
+      "start": "2024-02-26",
+      "end": "2024-04-21"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSe17lGao6ljkYiW_kvi1DQRlm7j0X5A2sNhPFkvAaAg3rvMVw/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "대구 동구 동촌역사로3길 33, 강동문화체육센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240303224",
     "title": "DAFC 002 케이지 주짓수 퍼플&브라운,블랙 최강자전",
     "location": "경기",
