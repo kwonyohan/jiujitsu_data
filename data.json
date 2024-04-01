@@ -1,5 +1,212 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240401233",
+    "title": "제8회 아디다스컵 주짓수챔피언십 제주",
+    "location": "제주",
+    "competitionDate": "2024-04-06",
+    "applyPeriod": {
+      "start": "2024-03-08",
+      "end": "2024-03-30"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/C4QeEd7RIi4/?igsh=cm1zYjdnc3Y3N3F3",
+    "prizeMoney": 0,
+    "applyMoney": 60000,
+    "locationDetail": "제주 제주시 동문로 169, 사라봉 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401232",
+    "title": "제6회 군산시 전국 주짓수 대회",
+    "location": "경기",
+    "competitionDate": "2024-04-20",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-04-12"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "http://www.realbjj.co.kr/detail.php?contest_no=35",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "전북 군산시 번영로 281, 군산월명실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401231",
+    "title": "스트릿주짓수 61 안산 오픈",
+    "location": "경기",
+    "competitionDate": "2024-06-29",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-06-21"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF60-%EB%8C%80%EA%B5%AC-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "안산시 단원구 신안산대학로 135, 신안산대학교 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401230",
+    "title": "스트릿주짓수 60 대구 오픈",
+    "location": "대구",
+    "competitionDate": "2024-06-22",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-06-14"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF57-%EC%84%9C%EC%9A%B8-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "대구광역시 동구 팔공로 227, 대구텍스타일콤플렉스",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401229",
+    "title": "스트릿주짓수 59 서울 오픈",
+    "location": "서울",
+    "competitionDate": "2024-06-16",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-06-07"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF55-%EB%B6%80%EC%B2%9C-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "서울특별시 강남구 남부순환로 3104, SETEC 2전시장",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401228",
+    "title": "스트릿주짓수 58 부천 오픈",
+    "location": "경기",
+    "competitionDate": "2024-06-08",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-05-31"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF53-%EC%9A%B8%EC%82%B0-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "경기도 부천시 소사구 경인로120번길 45, 송내사회체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401227",
+    "title": "스트릿주짓수 57 대전 오픈",
+    "location": "대전",
+    "competitionDate": "2024-06-02",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-05-24"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF56-%EC%95%88%EC%96%91-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "대전광역시 중구 대종로 373, 충무체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401226",
+    "title": "스트릿주짓수 56 안양 오픈",
+    "location": "경기",
+    "competitionDate": "2024-05-25",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-05-17"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF54-%EC%9A%B8%EC%82%B0-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "경기도 안양시 동안구 임곡로 29, 대림대학교 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401225",
+    "title": "스트릿주짓수 55 하남 오픈",
+    "location": "경기",
+    "competitionDate": "2024-05-19",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-05-10"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF54-%EC%9A%B8%EC%82%B0-%EC%98%A4%ED%94%88-1",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "경기도 하남시 아리수로 600, 하남국민체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401224",
+    "title": "스트릿주짓수 53 청주 오픈",
+    "location": "충북",
+    "competitionDate": "2024-05-04",
+    "applyPeriod": {
+      "start": "2024-03-25",
+      "end": "2024-04-26"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF52-%EA%B5%AC%EB%AF%B8-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "충청북도 청주시 청원구 밀레니엄1로 33, 청주장애인스포츠센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240401223",
+    "title": "리그로얄 부산",
+    "location": "경남",
+    "competitionDate": "2024-04-28",
+    "applyPeriod": {
+      "start": "2024-03-14",
+      "end": "2024-04-23"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScFH4XHgJHOtMJblDF6Kccz2HXrFjNz3uPmswgPjA-GCls7iw/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "경남 양산시 양산대로 849, 양산실내체육관 ",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240401222",
     "title": "예거스컵 창원",
     "location": "경남",
@@ -238,7 +445,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20240303214",
-    "title": "스트릿주짓수 53 울산 오픈",
+    "title": "스트릿주짓수 54 울산 오픈",
     "location": "울산",
     "competitionDate": "2024-05-11",
     "applyPeriod": {
