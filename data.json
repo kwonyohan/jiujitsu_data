@@ -1,5 +1,24 @@
 [
   {
+    "id": "4b738ef0-b542-4412-a668-f20240410230",
+    "title": "제3회 다이노스컵 주짓수 챔피언십",
+    "location": "경남",
+    "competitionDate": "2024-06-01",
+    "applyPeriod": {
+      "start": "2024-04-08",
+      "end": "2024-05-24"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://forms.gle/XWb2ZKwPbPwPtvf17 ",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경남 고성군 고성읍 송학고분로 193, 고성군국민체육센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240401235",
     "title": "코리아주짓수 챔피언쉽 천안",
     "location": "충남",
