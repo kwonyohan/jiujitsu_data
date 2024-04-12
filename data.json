@@ -1,5 +1,22 @@
 [
-  {
+      "id": "4b738ef0-b542-4412-a668-f20240410231",
+    "title": "제6회 남양주시 의장기 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2024-06-01",
+    "applyPeriod": {
+      "start": "2024-04-22",
+      "end": "2024-05-26"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/nyjbjj?igsh=ZXRvaXlvbWttemw3",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 남양주시 다산지금로 91, 남양주체육문화센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240410230",
     "title": "제3회 다이노스컵 주짓수 챔피언십",
     "location": "경남",
