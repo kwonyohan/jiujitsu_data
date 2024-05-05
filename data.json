@@ -1,5 +1,24 @@
 [
       {
+    "id": "4b738ef0-b542-4412-a668-f20240505113",
+    "title": "예거스컵 대구",
+    "location": "대구",
+    "competitionDate": "2024-05-26",
+    "applyPeriod": {
+      "start": "2024-04-28",
+      "end": "2024-05-19"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdS8ZqwjciId9DGXhePnMp6FcCj2gNZ52Z8tZOzVQtGyTdNFA/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "대구 동구 동촌역사로3길 33, 강동문화체육센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240505112",
     "title": "2024 히어로즈 오브 주짓수 리그 시즌4",
     "location": "대전",
