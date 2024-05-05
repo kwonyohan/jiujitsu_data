@@ -1,5 +1,23 @@
 [
       {
+    "id": "4b738ef0-b542-4412-a668-f20240505114",
+    "title": "나르샤 주짓수 챔피언십 천안",
+    "location": "충남",
+    "competitionDate": "2024-06-09",
+    "applyPeriod": {
+      "start": "2024-04-16",
+      "end": "2024-06-02"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd_37EzEyyu9UPIPbZSgtOc_TiQ2g8fAdmj2AxxeCioI52XAw/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "충남 천안시 서북구 번영로 208, 유관순체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240505113",
     "title": "예거스컵 대구",
     "location": "대구",
