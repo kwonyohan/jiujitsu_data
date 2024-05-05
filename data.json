@@ -1,5 +1,23 @@
 [
       {
+    "id": "4b738ef0-b542-4412-a668-f20240505136",
+    "title": "2024 의정부시 주짓수 대회",
+    "location": "경기",
+    "competitionDate": "2023-06-22",
+    "applyPeriod": {
+      "start": "2024-05-15",
+      "end": "2024-06-16"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/C6aiYzQxRuI/?igsh=MXJkNDZ0ajM3Mmt5ZQ%3D%3D",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경기 의정부시 체육로90, 의정부실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240505135",
     "title": "OPMT 블루킹, 블루퀸",
     "location": "인천",
