@@ -1,5 +1,22 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20240714236",
+    "title": "제2회 선문대총장배 전국주짓수대회(중고교생)",
+    "location": "충남",
+    "competitionDate": "2024-08-24",
+    "applyPeriod": {
+      "start": "2024-07-11",
+      "end": "2024-08-03"
+    },
+    "icons": [
+      "beginner"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfr5gJTWrQV-JKyVGeGK-Cwosx-k7mz-xZfrSBuGAEHIzoCQw/viewform?edit2=2_ABaOnueL5VcV69U0FptUR2Dyn-VFfX0crvdxDUb5ynqFkEJZEHztCsg-dzE-3ylbcA",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "충남 아산시 탕정면 선문로 221번길 70, 선문대학교 스포츠과학관 1층",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240714235",
     "title": "2024 대전광역시 `D`오픈 챔피언십 주짓수대회",
     "location": "대전",
