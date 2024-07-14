@@ -1,5 +1,43 @@
 [
       {
+    "id": "4b738ef0-b542-4412-a668-f20240714213",
+    "title": "예거스컵 서울",
+    "location": "서울",
+    "competitionDate": "2024-08-18",
+    "applyPeriod": {
+      "start": "2024-06-23",
+      "end": "2024-08-14"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd9CLyCQprSguZfPOJXwYRvNxoFjdc-AQ0CFUq2erCcwTnT4w/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 65000,
+    "locationDetail": "서울 서대문구 백련사길 39, 서대문문화체육회관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240714212",
+    "title": "예거스컵 포항",
+    "location": "경북",
+    "competitionDate": "2024-08-03",
+    "applyPeriod": {
+      "start": "2024-06-23",
+      "end": "2024-07-31"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdv_ajpEW5DEOi221En5eedFENJQn9MibFSUtWpVLv3mZEGpA/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 65000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항종합운동장실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240714211",
     "title": "제3회 이순신장군배 주짓수 챔피언쉽",
     "location": "경남",
