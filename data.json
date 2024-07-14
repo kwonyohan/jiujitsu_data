@@ -1,5 +1,24 @@
 [
       {
+    "id": "4b738ef0-b542-4412-a668-f20240714211",
+    "title": "제3회 이순신장군배 주짓수 챔피언쉽",
+    "location": "경남",
+    "competitionDate": "2024-08-24",
+    "applyPeriod": {
+      "start": "2024-07-01",
+      "end": "2024-08-16"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf1BcQTqsND8u0OBmibv06igBeO-CcJut0xMzA3bnYBGnfmQQ/viewform",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "경상남도 통영시 평인일주로 841, 통영체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240714210",
     "title": "예거스컵 대전",
     "location": "대전",
