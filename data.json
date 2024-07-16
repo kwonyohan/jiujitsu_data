@@ -1,5 +1,40 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20240716233",
+    "title": "제7회 프라임 주짓수 챔피언십",
+    "location": "충북",
+    "competitionDate": "2024-07-20",
+    "applyPeriod": {
+      "start": "2024-06-10",
+      "end": "2024-07-05"
+    },
+    "icons": [
+      "beginner"
+    ],
+    "applyUrl": "https://cafe.naver.com/cbbjjaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "충북 청주시 서원구 흥덕로 55, 남궁유도회관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240716232",
+    "title": "주짓수코리아 챔피언십(GI & NOGI)",
+    "location": "서울",
+    "competitionDate": "2024-08-03",
+    "applyPeriod": {
+      "start": "2024-06-29",
+      "end": "2024-07-28"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/C9EBn7OyxlG/?utm_source=ig_web_copy_link",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "서울 양재대로 12길 73-48, 서초종합체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240716231",
     "title": "제1회 강북구청장배 주짓수 대회",
     "location": "서울",
@@ -294,7 +329,7 @@
     "competitionDate": "2024-07-27",
     "applyPeriod": {
       "start": "2024-06-24",
-      "end": "2024-07-14"
+      "end": "2024-07-21"
     },
     "icons": [
       "beginner",
