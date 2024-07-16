@@ -1,5 +1,43 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20240716231",
+    "title": "제1회 강북구청장배 주짓수 대회",
+    "location": "서울",
+    "competitionDate": "2024-08-31",
+    "applyPeriod": {
+      "start": "2024-07-01",
+      "end": "2024-08-25"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1QL6wOQIIT0mN4tawmV567wo0xpjrNqbDfEwEieoEFKk/edit",
+    "prizeMoney": 200000,
+    "applyMoney": 50000,
+    "locationDetail": "서울 강북구 오현로31길 51, 강북웰빙스포츠센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20240716230",
+    "title": "스트릿주짓수 73 진주 오픈",
+    "location": "경남",
+    "competitionDate": "2024-10-05",
+    "applyPeriod": {
+      "start": "2024-07-15",
+      "end": "2024-09-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF72-%EC%B2%AD%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "경남 진주시 문산읍 월아산로 973, 진주문산실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20240714236",
     "title": "제2회 선문대총장배 전국주짓수대회(중고교생)",
     "location": "충남",
