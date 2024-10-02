@@ -1,5 +1,22 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241003025",
+    "title": "Awake Jiu-jitsu Championship",
+    "location": "경기",
+    "competitionDate": "2024-10-06",
+    "applyPeriod": {
+      "start": "2024-09-09",
+      "end": "2024-09-20"
+    },
+    "icons": [
+      "beginner"
+    ],
+    "applyUrl": "https://www.instagram.com/p/C_z6iWkP_p0/?utm_source=ig_web_copy_link",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경기 고양시 덕양구 고양시청로 10, 고양시청 문예회관체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241003024",
     "title": "리그오브레거시 006 대구",
     "location": "대구",
@@ -333,7 +350,7 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20241003006",
-    "title": "예거스컵 송도",
+    "title": "예거스컵 송도 마스터컵(94년생부터)",
     "location": "인천",
     "competitionDate": "2024-10-20",
     "applyPeriod": {
