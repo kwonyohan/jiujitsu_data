@@ -20,8 +20,8 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20241003005",
-    "title": "예거스컵 천안",
-    "location": "천안",
+    "title": "예거스컵 안산",
+    "location": "경기",
     "competitionDate": "2024-10-19",
     "applyPeriod": {
       "start": "2024-09-08",
@@ -40,7 +40,7 @@
   },{
     "id": "4b738ef0-b542-4412-a668-f20241003005",
     "title": "예거스컵 천안",
-    "location": "천안",
+    "location": "충남",
     "competitionDate": "2024-10-13",
     "applyPeriod": {
       "start": "2024-09-08",
