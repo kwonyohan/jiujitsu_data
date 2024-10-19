@@ -1,5 +1,100 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241019233",
+    "title": "예거스컵 청주",
+    "location": "충북",
+    "competitionDate": "2024-11-30",
+    "applyPeriod": {
+      "start": "2024-10-18",
+      "end": "2024-11-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScoAg4zrBOtREfYBdtroA9BYkFZxys6Bk881dWP8j_sNlcBqQ/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 65000,
+    "locationDetail": "충청북도 청주시 청원구 율봉로 287, 청주 중앙초등학교",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019232",
+    "title": "예거스컵 대구",
+    "location": "대구",
+    "competitionDate": "2024-11-24",
+    "applyPeriod": {
+      "start": "2024-10-18",
+      "end": "2024-11-20"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfq4F2nx_Kw71LuPUUCFvq4XpOqNHn-AGG4pjFjSHhEEDYXcg/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 65000,
+    "locationDetail": "대구 동구 동촌역사로3길 33, 대구 강동문화체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019231",
+    "title": "연수구주짓수협회장배 주짓수토너먼트",
+    "location": "인천",
+    "competitionDate": "2024-11-16",
+    "applyPeriod": {
+      "start": "2024-10-08",
+      "end": "2024-11-13"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdK2kTAK170Ks5Avqz1zCat3vAneIrru1ZVNzhXtLbAq_iGlg/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 65000,
+    "locationDetail": "인천 연수구 송도과학로51번길 80, 송도체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019230",
+    "title": "예거스컵 대전",
+    "location": "대전",
+    "competitionDate": "2024-11-09",
+    "applyPeriod": {
+      "start": "2024-10-08",
+      "end": "2024-11-06"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeci2nh2p9Ydwdt_fgcd-FtZfJQJufTV6nRC2pN8vxT2eNCgA/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 65000,
+    "locationDetail": "대전 서구 배재로197번길 41, 대전 도솔다목적체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019229",
+    "title": "예거스컵 포항",
+    "location": "경북",
+    "competitionDate": "2024-11-03",
+    "applyPeriod": {
+      "start": "2024-10-08",
+      "end": "2024-10-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfHGcbUFqDTOUEDqSbR-LPb_oi-5tPflO8tJvJWaMQzaK33VQ/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 65000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항 포항실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241019228",
     "title": "제2회 히간마차도배 전국주짓수 챔피언쉽",
     "location": "경기",
