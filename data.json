@@ -1,5 +1,60 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241019228",
+    "title": "제2회 히간마차도배 전국주짓수 챔피언쉽",
+    "location": "경기",
+    "competitionDate": "2024-11-24",
+    "applyPeriod": {
+      "start": "2024-10-17",
+      "end": "2024-11-20"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1uUagRArAMu-gwYst0MdVZmO_mUn0CiIIvigLuFtxbBM/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기도 광주시 회안대로 891, 경기광주문화스포츠센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019227",
+    "title": "제2회 완주군수배 주짓수대회",
+    "location": "전북",
+    "competitionDate": "2024-11-23",
+    "applyPeriod": {
+      "start": "2024-10-18",
+      "end": "2024-11-15"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://www.realbjj.co.kr/detail.php?contest_no=36",
+    "prizeMoney": 300000,
+    "applyMoney": 50000,
+    "locationDetail": "전북 완주군 삼례로 443, 우석대학교 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019226",
+    "title": "제1회 미추홀구청장배 주짓수대회",
+    "location": "인천",
+    "competitionDate": "2024-11-09",
+    "applyPeriod": {
+      "start": "2024-10-15",
+      "end": "2024-10-31"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://forms.gle/HvGbzsNdQweXTpv66",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "인천 미추홀구 경인로42번길 57, 미추홀구 국민체육센터 다목적체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241019225",
     "title": "리그로얄 부산",
     "location": "부산",
