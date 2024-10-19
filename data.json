@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241019221",
+    "title": "JRCC 주짓수페스티벌 인천",
+    "location": "인천",
+    "competitionDate": "2024-10-19",
+    "applyPeriod": {
+      "start": "2024-09-12",
+      "end": "2024-10-15"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "http://jrcc.kr/main/incheon/",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "인천 중구 월미로 33, 상상플랫폼",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241019220",
     "title": "AJP tour Korea GI&NO-GI",
     "location": "경기",
