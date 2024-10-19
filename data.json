@@ -1,5 +1,60 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241019225",
+    "title": "리그로얄 부산",
+    "location": "부산",
+    "competitionDate": "2024-12-21",
+    "applyPeriod": {
+      "start": "2024-10-16",
+      "end": "2024-12-16"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLScgHZ6mapLePag3MRgAhaLWGuL5iIL7XluQamYx1OiBCiC3eA/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "부산 강서구 대저1동, 강서체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019224",
+    "title": "V1 주짓수 챔피언십",
+    "location": "강원",
+    "competitionDate": "2024-12-14",
+    "applyPeriod": {
+      "start": "2024-10-01",
+      "end": "2024-12-08"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/DBOg-CMhU2k/?igsh=eXR3eDk4czN5bjhk",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "강원특별자치도 강릉시 남부로 224, 강릉 국민체육센터 강남체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241019223",
+    "title": "제1회 하남시장배 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2024-10-27",
+    "applyPeriod": {
+      "start": "2024-09-02",
+      "end": "2024-10-20"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://najuha.com/competition/229",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경기 하남시 아리수로600, 하남국민체육센터 제1체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241019222",
     "title": "제4회 송파구협회장배 주짓수대회",
     "location": "서울",
