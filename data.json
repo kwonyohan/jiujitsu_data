@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241019222",
+    "title": "제4회 송파구협회장배 주짓수대회",
+    "location": "서울",
+    "competitionDate": "2024-11-24",
+    "applyPeriod": {
+      "start": "2024-09-30",
+      "end": "2024-11-16"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSev4Zd4aaLgQ7DiATCtC61oZ06kEj4TZfsjIirNBsba-lxziA/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 송파구 양산로 15, 송파체육문화회관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241019221",
     "title": "JRCC 주짓수페스티벌 인천",
     "location": "인천",
@@ -141,20 +159,20 @@
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20241003019",
-    "title": "SGAA 노기 챔피언쉽 서울",
+    "title": "SGAA 노기 Point Time 2",
     "location": "서울",
-    "competitionDate": "2024-10-12",
+    "competitionDate": "2024-11-02",
     "applyPeriod": {
-      "start": "2024-09-09",
-      "end": "2024-10-06"
+      "start": "2024-10-04",
+      "end": "2024-10-30"
     },
     "icons": [
       "absolute"
     ],
-    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSehdzxuotF3qDmuTtC6gWpsdPYQu36-M5AjdgEKXF-IsY0-iQ/viewform",
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeyo8wjEZkROjxMzkLZuK0p6-Z_AaBdHHQCmU340YcQknFobw/viewform",
     "prizeMoney": 0,
-    "applyMoney": 50000,
-    "locationDetail": "서울특별시 광진구 워커힐로 93, 광진구 정립회관 본관 4층 다목적실",
+    "applyMoney": 20000,
+    "locationDetail": "서울특별시 도봉구 해등로 111, 3층 창동 주짓수 아카데미 MARC",
     "priority": 0
   },{
     "id": "4b738ef0-b542-4412-a668-f20241003018",
