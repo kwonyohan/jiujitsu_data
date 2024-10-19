@@ -1,5 +1,21 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241019220",
+    "title": "AJP tour Korea GI&NO-GI",
+    "location": "경기",
+    "competitionDate": "2024-10-05",
+    "applyPeriod": {
+      "start": "2024-09-16",
+      "end": "2024-09-30"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://ajptour.com/en/event/973?fbclid=PAZXh0bgNhZW0CMTEAAaa6eKMUEgMGJTHfqG4-rdGcJ-jSm0lZcDbepwxso4CdcAOo840_uOL4TaY_aem_kMo9y_KOWkMt49k0rmIJlg",
+    "prizeMoney": 0,
+    "applyMoney": 60000,
+    "locationDetail": "경기 안산시 단원구 화정천동로 396, 와동 체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241003025",
     "title": "Awake Jiu-jitsu Championship",
     "location": "경기",
