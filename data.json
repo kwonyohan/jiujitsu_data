@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241107168",
+    "title": "SGAA X 성북구구청장기",
+    "location": "서울",
+    "competitionDate": "2024-12-08",
+    "applyPeriod": {
+      "start": "2024-10-04",
+      "end": "2024-11-30"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://linktr.ee/sgaaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 성북구 화랑로13길 144, 성북구민체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241107167",
     "title": "존프랭클 주짓수 코리아 챔피언십",
     "location": "서울",
