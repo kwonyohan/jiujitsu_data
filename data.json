@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241107167",
+    "title": "존프랭클 주짓수 코리아 챔피언십",
+    "location": "서울",
+    "competitionDate": "2024-12-07",
+    "applyPeriod": {
+      "start": "2024-11-01",
+      "end": "2024-11-29"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd0XJhjZkdf9g4hYNc9gNFTkiPb560NpohTI2EYsIA_KsiqoQ/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 60000,
+    "locationDetail": "서울 동대문구 이문로 107, 한국외국어대학교 서울캠퍼스오바마홀",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241107166",
     "title": "2024 안산시주짓수회 체육회장기",
     "location": "경기",
