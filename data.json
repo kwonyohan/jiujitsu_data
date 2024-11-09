@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241107169",
+    "title": "샤카 주짓수 챔피언십 창원",
+    "location": "경남",
+    "competitionDate": "2024-12-21",
+    "applyPeriod": {
+      "start": "2024-11-08",
+      "end": "2024-12-13"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1n8GAFrTukBz7aobUbYE6OkriDbIs_JZOUWP62p1qIog/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경남 창원시 마산회원구 삼호로 63, 마산종합운동장",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241107168",
     "title": "SGAA X 성북구구청장기",
     "location": "서울",
