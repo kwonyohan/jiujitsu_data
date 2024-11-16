@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241116150",
+    "title": "제17회 부산오픈 주짓수 챔피언쉽 대회",
+    "location": "부산",
+    "competitionDate": "2024-12-15",
+    "applyPeriod": {
+      "start": "2024-11-09",
+      "end": "2024-12-07"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://cafe.daum.net/BusanOpenBJJ/kZcS",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "부산 북구 사랑로 132번길 88, 부산과학기술대학교 실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241107169",
     "title": "샤카 주짓수 챔피언십 창원",
     "location": "경남",
