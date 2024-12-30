@@ -1,5 +1,41 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20241230169",
+    "title": "챌린지 주짓수 유소년 대회",
+    "location": "경기",
+    "competitionDate": "2025-01-11",
+    "applyPeriod": {
+      "start": "2024-12-11",
+      "end": "2024-12-24"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://pf.kakao.com/_xeWxaJG/chat",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "경기도 안양시 만안구 전파로 24, 안양 옥타곤 멀티짐",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20241230168",
+    "title": "제2회 퀸즈컴뱃 여성주짓수 대회",
+    "location": "서울",
+    "competitionDate": "2025-02-16",
+    "applyPeriod": {
+      "start": "2024-12-25",
+      "end": "2025-02-07"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1Ot4l6ZdZhn6XGZZ7oViVg8SotPoebUU6sDJs-zYMMc8/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "서울 광진구 구천면로 2, 광진청소년수련관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241230167",
     "title": "아이리스 헬파티&아마리그",
     "location": "서울",
