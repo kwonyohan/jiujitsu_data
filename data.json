@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250112170",
+    "title": "K주짓수챔피언쉽2 (KJJC)",
+    "location": "대구",
+    "competitionDate": "2025-01-12",
+    "applyPeriod": {
+      "start": "2024-12-03",
+      "end": "2025-01-05"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.kjjc.kr/%EC%B0%B8%EA%B0%80%EC%8B%A0%EC%B2%AD/view/5096765",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "대구 수성구 동대구로50길 121-10, 대구 수성국민체육센터 내 실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20241230169",
     "title": "챌린지 주짓수 유소년 대회",
     "location": "경기",
