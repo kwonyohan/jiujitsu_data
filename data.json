@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250204029",
+    "title": "PBJJF 아시안 주짓수 챔피언십",
+    "location": "부산",
+    "competitionDate": "2025-04-25",
+    "applyPeriod": {
+      "start": "2025-01-22",
+      "end": "2025-03-27"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSfasP2o0k4Xbx41xKCRhUacpH3nxDEDZzM_TW9qY1zABTGvUg/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 80000,
+    "locationDetail": "부산광역시 금정구 체육공원로399번길 324, 부산 스포원파크금정실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250204028",
     "title": "아이리스 원주 히든게임(27일)",
     "location": "강원",
