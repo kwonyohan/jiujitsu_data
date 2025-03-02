@@ -1,5 +1,42 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250302146",
+    "title": "SGAA 기/노기 챔피언쉽 서울",
+    "location": "서울",
+    "competitionDate": "2025-03-30",
+    "applyPeriod": {
+      "start": "2025-02-17",
+      "end": "2025-03-20"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://linktr.ee/sgaaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 광진구 구천면로 14, 광진구민체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250302145",
+    "title": "스트릿주짓수 98 광주 오픈",
+    "location": "광주",
+    "competitionDate": "2025-04-19",
+    "applyPeriod": {
+      "start": "2025-02-21",
+      "end": "2025-04-11"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF97-%EC%9B%90%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "광주광역시 대남대로308번안길 20, 남구반다비체육센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250302144",
     "title": "예거스컵 수원",
     "location": "경기",
