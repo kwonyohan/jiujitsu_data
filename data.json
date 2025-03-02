@@ -1,5 +1,40 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250302141",
+    "title": "부천 판타지아 주짓수 챔피언십",
+    "location": "경기",
+    "competitionDate": "2025-03-23",
+    "applyPeriod": {
+      "start": "2025-02-12",
+      "end": "2025-03-18"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1smxMMs814eUrppwQ7wzD6I65oQlhkjezmoWaYzsaz44/viewform?chromeless=1&fbclid=PAY2xjawIw0lJleHRuA2FlbQIxMQABpqugSl2CCyBExQ7uJ3Ed_f4ax21T1SnBdjxph6dXY3b3bHY53pNl4H_XwA_aem_rIWHzNcIjKLQbxKDW_FdBw&edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 40000,
+    "locationDetail": "경기 부천시 소사구 경인로120번길 45, 송내사회체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250302140",
+    "title": "2025년 다이노스컵 주짓수 챔피언십",
+    "location": "경남",
+    "competitionDate": "2025-03-15",
+    "applyPeriod": {
+      "start": "2025-02-10",
+      "end": "2025-03-07"
+    },
+    "icons": [
+      "prize",
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeiq0dU2kvd3gzdCNY8j83afjBAiQkb6OIkDuqPixofz0wBfg/viewform?pli=1",
+    "prizeMoney": 1000000,
+    "applyMoney": 70000,
+    "locationDetail": "경남 고성군 고성읍 송학고분로 193, 고성군국민체육센터",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250204029",
     "title": "PBJJF 아시안 주짓수 챔피언십",
     "location": "부산",
