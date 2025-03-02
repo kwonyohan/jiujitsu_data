@@ -1,5 +1,164 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250303007",
+    "title": "제3회 대전광역시회장배 주짓수대회",
+    "location": "대전",
+    "competitionDate": "2025-03-08",
+    "applyPeriod": {
+      "start": "2025-02-08",
+      "end": "2025-02-28"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf3mFP7mZOf13gRdNCeSCeA4Ylt7G9z_Ra_4yZNM6iIQywptQ/viewform",
+    "prizeMoney": 100000,
+    "applyMoney": 60000,
+    "locationDetail": "대전 서구 배재로197번길 41, 도솔다목적체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250303006",
+    "title": "제7회 이천 오픈 주짓수 챔피언쉽",
+    "location": "경기",
+    "competitionDate": "2025-03-15",
+    "applyPeriod": {
+      "start": "2025-02-20",
+      "end": "2025-03-07"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdNu7OYcWPuG9Foa2wRWlEqUC4-V72wnNHOi8t4dHBA3XyFhw/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "경기 이천시 영창로 260, 서희청소년 문화센터 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250303005",
+    "title": "울산 울주군협회장배 주짓수대회",
+    "location": "울산",
+    "competitionDate": "2025-04-06",
+    "applyPeriod": {
+      "start": "2025-02-18",
+      "end": "2025-03-28"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1xPrqNkn_zKcgEPIBAQ5N4RTIJ6IRE2sZBahkTltYxJk/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "울산 울주군 언양읍 샘소3길 25, 울주군민 체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250303004",
+    "title": "2025 도봉구청장.협회장배 주짓수대회",
+    "location": "서울",
+    "competitionDate": "2025-04-05",
+    "applyPeriod": {
+      "start": "2025-02-17",
+      "end": "2025-03-30"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSeaTrxYs_jaujtX9n8JVHlVuRJlPdIT9P7irrJcPWNTKf_9-g/viewform",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 도봉구 노해로69길 132, 창동문화체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250303003",
+    "title": "Asjjf Korea International Jiu Jitsu Open Championship 2025",
+    "location": "서울",
+    "competitionDate": "2025-06-15",
+    "applyPeriod": {
+      "start": "2025-03-04",
+      "end": "2025-06-06"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://asjjf.org/main/eventInfo/1730",
+    "prizeMoney": 0,
+    "applyMoney": 70000,
+    "locationDetail": "서울 강남구 남부순환로 3104, SETEC 2전시장",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250303002",
+    "title": "Asjjf Korea International No-gi Open Championship 2025",
+    "location": "서울",
+    "competitionDate": "2025-06-15",
+    "applyPeriod": {
+      "start": "2025-03-04",
+      "end": "2025-06-06"
+    },
+    "icons": [
+      "absolute"
+    ],
+    "applyUrl": "https://asjjf.org/main/eventInfo/1731",
+    "prizeMoney": 0,
+    "applyMoney": 70000,
+    "locationDetail": "서울 강남구 남부순환로 3104, SETEC 2전시장",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250303001",
+    "title": "제2회 올 네트워크 주짓수챔피언십",
+    "location": "부산",
+    "competitionDate": "2025-04-26",
+    "applyPeriod": {
+      "start": "2025-03-01",
+      "end": "2025-04-18"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.instagram.com/p/DGm2VwTh_ix/?utm_source=ig_web_button_share_sheet",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "부산 사하구 낙동대로550번길 37, 동아대학교체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250303000",
+    "title": "2025 히어로즈 오브 주짓수 리그 시즌7",
+    "location": "경북",
+    "competitionDate": "2025-03-23",
+    "applyPeriod": {
+      "start": "2025-03-03",
+      "end": "2025-03-16"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://www.heroesofsports.kr/events/application/136?page=1",
+    "prizeMoney": 0,
+    "applyMoney": 55000,
+    "locationDetail": "경북 포항시 남구 희망대로 810, 포항종합운동장실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250302149",
+    "title": "AJP tour Korea GI&NO-GI 2025",
+    "location": "경기",
+    "competitionDate": "2025-03-22",
+    "applyPeriod": {
+      "start": "2025-01-03",
+      "end": "2025-03-17"
+    },
+    "icons": [
+    ],
+    "applyUrl": "https://ajptour.com/en/event/1238",
+    "prizeMoney": 0,
+    "applyMoney": 60000,
+    "locationDetail": "경기 안산시 단원구 화정천동로 396, 와동 체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250302148",
     "title": "2025 안산시회장배 주짓수대회",
     "location": "경기",
