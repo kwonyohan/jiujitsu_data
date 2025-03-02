@@ -1,5 +1,41 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250302148",
+    "title": "2025 안산시회장배 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2025-04-12",
+    "applyPeriod": {
+      "start": "2025-02-11",
+      "end": "2025-04-01"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://bjjakorea.com/match/register?game_id=66",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "경기 안산시 단원구 적금로 202, 안산 올림픽체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250302147",
+    "title": "제9회 프라임 주짓수 대회",
+    "location": "충북",
+    "competitionDate": "2025-03-08",
+    "applyPeriod": {
+      "start": "2025-02-03",
+      "end": "2025-02-21"
+    },
+    "icons": [
+      "beginner"
+    ],
+    "applyUrl": "https://cafe.naver.com/cbbjjaofficial",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "충북 청주시 흥덕구 강내면 월곡길 38, 충청대학교 실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250302146",
     "title": "SGAA 기/노기 챔피언쉽 서울",
     "location": "서울",
