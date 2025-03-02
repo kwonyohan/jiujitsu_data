@@ -1,5 +1,23 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250303008",
+    "title": "제4회 서초구회장배 주짓수대회",
+    "location": "서울",
+    "competitionDate": "2025-04-19",
+    "applyPeriod": {
+      "start": "2025-02-21",
+      "end": "2025-04-12"
+    },
+    "icons": [
+      "beginner",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/1pW_-EpJ087KW6fN2vTUim_6VN7D9XbOU_-V5A-3y35s/viewform?edit_requested=true",
+    "prizeMoney": 0,
+    "applyMoney": 50000,
+    "locationDetail": "서울 서초구 양재대로 12길 73-48, 서초종합체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250303007",
     "title": "제3회 대전광역시회장배 주짓수대회",
     "location": "대전",
