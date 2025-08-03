@@ -1,5 +1,347 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250804017",
+    "title": "스트릿주짓수 116 성남 오픈",
+    "location": "경기",
+    "competitionDate": "2025-08-02",
+    "applyPeriod": {
+      "start": "2025-06-16",
+      "end": "2025-07-25"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 성남시 중원구 둔촌대로183번길 20, 성남실내체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804016",
+    "title": "스트릿주짓수 115 원주 오픈",
+    "location": "강원",
+    "competitionDate": "2025-08-02",
+    "applyPeriod": {
+      "start": "2025-05-22",
+      "end": "2025-07-25"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "강원 원주시 서원대로 279, 원주치악체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804015",
+    "title": "스트릿주짓수 114 서울 오픈",
+    "location": "서울",
+    "competitionDate": "2025-07-26",
+    "applyPeriod": {
+      "start": "2025-04-30",
+      "end": "2025-07-18"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "서울 도봉구 노해로69길 132, 창동운동장 및 문화체육센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804014",
+    "title": "스트릿주짓수 113 부천 오픈",
+    "location": "경남",
+    "competitionDate": "2025-07-19",
+    "applyPeriod": {
+      "start": "2025-05-14",
+      "end": "2025-07-11"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 부천시 소사구 경인로120번길 45, 송내사회체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804013",
+    "title": "스트릿주짓수 112 진주 오픈",
+    "location": "경남",
+    "competitionDate": "2025-07-12",
+    "applyPeriod": {
+      "start": "2025-04-22",
+      "end": "2025-07-05"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경상남도 진주시 남강로 1655, 진주실내체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804012",
+    "title": "스트릿주짓수 111 전주 오픈",
+    "location": "전북",
+    "competitionDate": "2025-07-12",
+    "applyPeriod": {
+      "start": "2025-04-22",
+      "end": "2025-07-05"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "전북특별자치도 전주시 완산구 천잠로 303, 전주대학교체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804011",
+    "title": "스트릿주짓수 110 청주 오픈",
+    "location": "충북",
+    "competitionDate": "2025-07-05",
+    "applyPeriod": {
+      "start": "2025-04-22",
+      "end": "2025-06-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "충청북도 청주시 청원구 밀레니엄1로 33, 청주시장애인스포츠센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804010",
+    "title": "스트릿주짓수 109 인천 오픈",
+    "location": "인천",
+    "competitionDate": "2025-06-29",
+    "applyPeriod": {
+      "start": "2025-05-07",
+      "end": "2025-06-20"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "인천광역시 서구 심곡로 98 인천광역시, 인재개발원 체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804009",
+    "title": "스트릿주짓수 108 울산 오픈",
+    "location": "울산",
+    "competitionDate": "2025-06-14",
+    "applyPeriod": {
+      "start": "2025-04-14",
+      "end": "2025-06-06"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "울산광역시 남구 봉월로38번길 32, 울산종하체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804008",
+    "title": "스트릿주짓수 107 고양 오픈",
+    "location": "경기",
+    "competitionDate": "2025-06-07",
+    "applyPeriod": {
+      "start": "2025-04-01",
+      "end": "2025-05-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기 고양시 일산서구 탄현로 42, 홀트장애인종합체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804007",
+    "title": "스트릿x리커버리컵 이천 오픈",
+    "location": "경기",
+    "competitionDate": "2025-06-01",
+    "applyPeriod": {
+      "start": "2025-04-09",
+      "end": "2025-05-23"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 이천시 영창로 260, 서희청소년센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804006",
+    "title": "스트릿주짓수 105 수원 오픈",
+    "location": "경기",
+    "competitionDate": "2025-05-24",
+    "applyPeriod": {
+      "start": "2025-04-08",
+      "end": "2025-05-16"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 수원시 장안구 광교산로 71, 수원보훈재활센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804005",
+    "title": "스트릿주짓수 104 제주 오픈",
+    "location": "제주",
+    "competitionDate": "2025-05-18",
+    "applyPeriod": {
+      "start": "2025-03-20",
+      "end": "2025-05-09"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "제주 제주시 원당북로 45, 삼양다목적체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804004",
+    "title": "스트릿주짓수 103 부천 오픈",
+    "location": "경기",
+    "competitionDate": "2025-05-10",
+    "applyPeriod": {
+      "start": "2025-03-05",
+      "end": "2025-05-02"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 부천시 소사구 경인로120번길 45, 송내사회체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804003",
+    "title": "스트릿주짓수 102 의정부 오픈",
+    "location": "경기",
+    "competitionDate": "2025-05-03",
+    "applyPeriod": {
+      "start": "2025-03-05",
+      "end": "2025-04-25"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기 의정부시 호암로 95, 신한대학교 체육관(은혜관)",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804002",
+    "title": "스트릿주짓수 101 서울 오픈",
+    "location": "서울",
+    "competitionDate": "2025-04-27",
+    "applyPeriod": {
+      "start": "2025-03-04",
+      "end": "2025-04-18"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "서울특별시 강서구 양천로61길 101, 가양레포츠센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804001",
+    "title": "스트릿주짓수 100 천안 오픈",
+    "location": "충남",
+    "competitionDate": "2025-04-26",
+    "applyPeriod": {
+      "start": "2025-03-04",
+      "end": "2025-04-18"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "충남 천안시 서북구 성환읍 성산샘길 45, 남서울대학교 성암문화체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804000",
+    "title": "스트릿주짓수 99 인천 오픈",
+    "location": "인천",
+    "competitionDate": "2025-04-20",
+    "applyPeriod": {
+      "start": "2025-03-04",
+      "end": "2025-04-11"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "인천 서구 심곡로 98, 인천 인재개발원 체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250303008",
     "title": "제4회 서초구회장배 주짓수대회",
     "location": "서울",
