@@ -1,5 +1,81 @@
 [
         {
+    "id": "4b738ef0-b542-4412-a668-f20250804026",
+    "title": "리그로얄 부산 더블크라운(기&노기)",
+    "location": "서울",
+    "competitionDate": "2025-08-09",
+    "applyPeriod": {
+      "start": "2025-06-29",
+      "end": "2025-08-04"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf03VGpuCzD6slHQj4NBm7c48-Kd29VuxchAw8C6tBLignY9A/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "부산 금정구 체육공원로 399번길 324, 스포원 금정실내체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804025",
+    "title": "리그로얄 순천",
+    "location": "서울",
+    "competitionDate": "2025-07-12",
+    "applyPeriod": {
+      "start": "2025-04-26",
+      "end": "2025-07-07"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://leagueroyale.co.kr/",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "전라남도 순천시 팔마로 333, 순천 팔마체육관",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804024",
+    "title": "리그로얄 서울",
+    "location": "서울",
+    "competitionDate": "2025-07-06",
+    "applyPeriod": {
+      "start": "2025-04-15",
+      "end": "2025-07-01"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://leagueroyale.co.kr/",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "서울특별시 강서구 화곡로65길 62, 강서구민올림픽체육센터",
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20250804023",
+    "title": "리그로얄 부산",
+    "location": "부산",
+    "competitionDate": "2025-06-08",
+    "applyPeriod": {
+      "start": "2025-04-10",
+      "end": "2025-06-03"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "http://leagueroyale.co.kr/",
+    "prizeMoney": 500000,
+    "applyMoney": 55000,
+    "locationDetail": "부산 금정구 체육공원로 399번길 324, 스포원 금정실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250804022",
     "title": "스트릿주짓수 121 서울 오픈",
     "location": "서울",
