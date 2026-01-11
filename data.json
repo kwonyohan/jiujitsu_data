@@ -1,5 +1,233 @@
 [
-        {
+       {
+    "id": "4b738ef0-b542-4412-a668-f20260111150",
+    "title": "스트릿주짓수 152 거제 오픈",
+    "location": "경남",
+    "competitionDate": "2026-02-21",
+    "applyPeriod": {
+      "start": "2025-12-15",
+      "end": "2026-02-13"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF149-%EC%B2%AD%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "경상남도 거제시 계룡로 11길 35, 거제실내체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111149",
+    "title": "스트릿주짓수 151 인천 오픈",
+    "location": "인천",
+    "competitionDate": "2026-02-08",
+    "applyPeriod": {
+      "start": "2025-12-15",
+      "end": "2026-01-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF149-%EC%B2%AD%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "인천광역시 구월로 251, 올림픽기념국민생활관 체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111148",
+    "title": "스트릿주짓수 150 청주 오픈",
+    "location": "충북",
+    "competitionDate": "2026-02-07",
+    "applyPeriod": {
+      "start": "2025-12-05",
+      "end": "2026-01-30"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF148-%EC%88%98%EC%9B%90-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "충청북도 청주시 청원구 밀레니엄1로 33, 청주장애인스포츠센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111147",
+    "title": "스트릿주짓수 149 수원 오픈",
+    "location": "경기",
+    "competitionDate": "2026-01-31",
+    "applyPeriod": {
+      "start": "2025-12-05",
+      "end": "2026-01-23"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF147-%EC%95%84%EC%82%B0-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 수원시 경수대로 1150, 경기도인재개발원 체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111146",
+    "title": "스트릿주짓수 147 부산 오픈",
+    "location": "부산",
+    "competitionDate": "2026-01-24",
+    "applyPeriod": {
+      "start": "2025-12-05",
+      "end": "2026-01-16"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF145-%EC%84%9C%EC%9A%B8-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "부산광역시 기장군 기장대로 650, 기장체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111145",
+    "title": "제 5회 김포시 회장기 주짓수대회",
+    "location": "경기",
+    "competitionDate": "2026-01-24",
+    "applyPeriod": {
+      "start": "2025-12-18",
+      "end": "2026-01-16"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF146-%EB%B6%80%EC%82%B0-%EC%98%A4%ED%94%88-1",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 김포시 김포한강8로 198-3, 김포생활체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111144",
+    "title": "스트릿주짓수 147 안산 오픈",
+    "location": "경기",
+    "competitionDate": "2026-01-24",
+    "applyPeriod": {
+      "start": "2025-12-18",
+      "end": "2026-01-16"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF146-%EB%B6%80%EC%82%B0-%EC%98%A4%ED%94%88-1",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 김포시 김포한강8로 198-3, 김포생활체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111143",
+    "title": "스트릿주짓수 146 안산 오픈",
+    "location": "경기",
+    "competitionDate": "2026-01-18",
+    "applyPeriod": {
+      "start": "2025-12-18",
+      "end": "2026-01-09"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF145-%EC%84%9C%EC%9A%B8-%EC%98%A4%ED%94%88-1",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 안산시 단원구 적금로 202, 안산올림픽체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111142",
+    "title": "스트릿주짓수 145 서울 오픈",
+    "location": "서울",
+    "competitionDate": "2026-01-17",
+    "applyPeriod": {
+      "start": "2025-12-02",
+      "end": "2026-01-09"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF144-%EC%9A%B8%EC%82%B0-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "서울특별시 동대문구 답십리로 210-3, 동대문구체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111141",
+    "title": "스트릿주짓수 144 울산 오픈",
+    "location": "울산",
+    "competitionDate": "2026-01-11",
+    "applyPeriod": {
+      "start": "2025-11-28",
+      "end": "2026-01-02"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF143-%EB%8C%80%EC%A0%84-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "울산광역시 봉월로38번길 32, 울산종하체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111141",
+    "title": "스트릿주짓수 143 대전 오픈",
+    "location": "대전",
+    "competitionDate": "2026-01-10",
+    "applyPeriod": {
+      "start": "2025-11-25",
+      "end": "2026-01-02"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF142-%EC%8B%9C%ED%9D%A5-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "대전광역시 서구 배재로197번길 41, 도솔다목적체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260111140",
+    "title": "리그로얄 부산 양산실내체육관",
+    "location": "부산",
+    "competitionDate": "2026-01-31",
+    "applyPeriod": {
+      "start": "2025-12-22",
+      "end": "2026-01-26"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdYxupFLgiYEDb7WXjjrv4blgQmGuujwvA8HeC5Zoglxu9Suw/viewform",
+    "prizeMoney": 500000,
+    "applyMoney": 60000,
+    "locationDetail": "경상남도 양산시 양산대로 849, 양산종합운동장실내체육관",
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20250804026",
     "title": "리그로얄 부산 더블크라운(기&노기)",
     "location": "부산",
