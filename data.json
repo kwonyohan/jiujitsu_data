@@ -1,5 +1,100 @@
 [
        {
+    "id": "4b738ef0-b542-4412-a668-f20260311214",
+    "title": "스트릿주짓수 157 구미 오픈",
+    "location": "경북",
+    "competitionDate": "2026-03-28",
+    "applyPeriod": {
+      "start": "2026-02-03",
+      "end": "2026-03-20"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF156-%EC%B2%9C%EC%95%88-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "경상북도 구미시 박정희로 375-7, 구미복합스포츠센터",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260311213",
+    "title": "스트릿주짓수 156 천안 오픈",
+    "location": "충남",
+    "competitionDate": "2026-03-21",
+    "applyPeriod": {
+      "start": "2026-01-20",
+      "end": "2026-03-13"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF155-%EC%9B%90%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "충청남도 천안시 성산샘길 45, 성암문화체육관 보조경기장",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260311212",
+    "title": "스트릿주짓수 155 원주 오픈",
+    "location": "강원",
+    "competitionDate": "2026-03-14",
+    "applyPeriod": {
+      "start": "2026-01-20",
+      "end": "2026-03-06"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/%EB%B3%B5%EC%A0%9C-%EC%8A%A4%ED%8A%B8%EB%A6%BF154-%EC%A0%84%EC%A3%BC-%EC%98%A4%ED%94%88",
+    "applyMoney": 55000,
+    "locationDetail": "경원도 원주시 서원대로 279, 치악체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260311211",
+    "title": "스트릿주짓수 154 전주 오픈",
+    "location": "전북",
+    "competitionDate": "2026-03-07",
+    "applyPeriod": {
+      "start": "2026-01-13",
+      "end": "2026-02-27"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "전라북도 전주시 천잠로 303,전주대학교 체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
+    "id": "4b738ef0-b542-4412-a668-f20260311210",
+    "title": "스트릿주짓수 153 성남 오픈",
+    "location": "경기",
+    "competitionDate": "2026-02-28",
+    "applyPeriod": {
+      "start": "2026-01-23",
+      "end": "2026-02-20"
+    },
+    "icons": [
+      "beginner",
+      "prize",
+      "absolute"
+    ],
+    "applyUrl": "https://www.street-jiujitsu.com/",
+    "applyMoney": 55000,
+    "locationDetail": "경기도 성남시 중원구 둔촌대로183번길 20, 성남실내체육관",
+    "prizeMoney": 500000,
+    "priority": 0
+  },{
     "id": "4b738ef0-b542-4412-a668-f20260111150",
     "title": "스트릿주짓수 152 거제 오픈",
     "location": "경남",
